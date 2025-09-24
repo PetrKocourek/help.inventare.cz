@@ -1,0 +1,24 @@
+﻿site_name: Inventare Help
+theme:
+  name: material
+
+nav:
+  - Nápověda:
+      - Úvod: napoveda/index.md
+      - Jak vyhledávat: napoveda/vyhledavani.md
+      - Úvodní strana: napoveda/uvodni-strana.md
+      - Sekce: napoveda/sekce.md
+      - Vysvětlivky: napoveda/vysvetlivky.md
+  - Zkratky:
+      - Rozcestník: zkratky/index.md
+      - 0–9: zkratky/0-9.md
+      - A–C: zkratky/a-c.md
+      - CH–H: zkratky/ch-h.md
+      - I–L: zkratky/i-l.md
+      - M–N: zkratky/m-n.md
+      - O: zkratky/o.md
+      - P–R: zkratky/p-r.md
+      - S: zkratky/s.md
+      - T–V: zkratky/t-v.md
+      - Y–Ž: zkratky/y-z.md
+  - O nápovědě: o-napovede.md
