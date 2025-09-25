@@ -33,24 +33,23 @@ plugins:
 
 nav:
   - Nápověda:
-      - Úvod: napoveda/index.md
-      - Jak vyhledávat: napoveda/vyhledavani.md
-      - Úvodní strana: napoveda/uvodni-strana.md
-      - Sekce: napoveda/sekce.md
-      - Vysvětlivky: napoveda/vysvetlivky.md
+      - Úvod: help/index.md
+      - Jak vyhledávat: help/searching.md
+      - Úvodní strana: help/home.md
+      - Sekce: help/sections.md
+  - Vysvětlivky: glossary/index.md
   - Zkratky:
-      - Rozcestník: zkratky/index.md
-      - 0–9: zkratky/0-9.md
-      - A–C: zkratky/a-c.md
-      - CH–H: zkratky/ch-h.md
-      - I–L: zkratky/i-l.md
-      - M–N: zkratky/m-n.md
-      - O: zkratky/o.md
-      - P–R: zkratky/p-r.md
-      - S: zkratky/s.md
-      - T–V: zkratky/t-v.md
-      - Y–Ž: zkratky/y-z.md
-  - O nápovědě: o-napovede.md
+      - Rozcestník: abbreviations/index.md
+      - 0–9: abbreviations/0-9.md
+      - A,B,C,Č: abbreviations/a-c.md
+      - D,E,F,G,H: abbreviations/d-h.md
+      - CH,I,J,K: abbreviations/ch-k.md
+      - L,M,N: abbreviations/l-n.md
+      - O: abbreviations/o.md
+      - P,R: abbreviations/p-r.md
+      - S: abbreviations/s.md
+      - T,U,V: abbreviations/t-v.md
+      - Y,Z,Ž: abbreviations/y-z.md
 
 extra_css:
   - css/extra.css
