@@ -1,6 +1,35 @@
 ﻿site_name: Inventare Help
+site_url: https://help.inventare.cz
+repo_url: https://github.com/PetrKocourek/help.inventare.cz
+edit_uri: edit/main/docs
+
 theme:
   name: material
+  language: cs
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+  palette:
+    scheme: default
+    toggle:
+      icon: material/weather-night
+      name: Přepnout režim
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - admonition
+  - footnotes
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+
+plugins:
+  - search
 
 nav:
   - Nápověda:
@@ -22,3 +51,11 @@ nav:
       - T–V: zkratky/t-v.md
       - Y–Ž: zkratky/y-z.md
   - O nápovědě: o-napovede.md
+
+extra_css:
+  - css/extra.css
+extra_javascript:
+  - js/extra.js
+
+strict: false
+use_directory_urls: true
