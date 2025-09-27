@@ -1,11 +1,18 @@
-﻿# Rozcestník zkratek
+﻿---
+icon: material/order-alphabetical-ascending
+title: Seznam zkratek
+---
+# Seznam zkratek
 
-Zde najdete abecední seznam zkratek rozdělený do bloků.
+Abecední seznam zkratek použitých v archivním popisu.
 
-**Skupiny:** 0–9 · A,B,C,Č · D,E,F,G,H · CH,I,J,K · L,M,N · O · P,R · S · T,U,V · Y,Z,Ž
+Skupiny: 
 
-[0–9](0-9.md) · [A,B,C,Č](a-c.md) · [D,E,F,G,H](d-h.md) · [CH,I,J,K](ch-k.md) · [L,M,N](l-n.md) · [O](o.md) · [P,R](p-r.md) · [S](s.md) · [T,U,V](t-v.md) · [Y,Z,Ž](y-z.md)
+--8<-- "groups.md"
 
-<input id="abbrev-filter" placeholder="Hledat zkratku na této stránce…" />
+---
 
-> Tip: Můžete psát zkratku (např. „ČSS“) nebo část významu.
+<dl class="abbr-list">
+<dt>5LP</dt>
+<dd>pětiletý plán</dd>
+</dl>

@@ -1,6 +1,7 @@
-﻿# Zkratky CH,I,J,K
+﻿# Zkratky CH, I, J, K
 
-<input id="abbrev-filter" placeholder="Hledat zkratku na této stránce…" />
+--8<-- "groups.md"
+--8<-- "filter.md"
 
 <dl class="abbr-list">
 <dt>CHDZ</dt>

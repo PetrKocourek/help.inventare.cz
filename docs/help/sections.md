@@ -1,3 +1,0 @@
-﻿# Sekce
-
-Obsah bude doplněn.

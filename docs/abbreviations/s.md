@@ -1,6 +1,7 @@
-﻿# Zkratky S
+﻿# Zkratky S, Š
 
-<input id="abbrev-filter" placeholder="Hledat zkratku na této stránce…" />
+--8<-- "groups.md"
+--8<-- "filter.md"
 
 <dl class="abbr-list">
 <dt>s</dt>

@@ -1,6 +1,8 @@
-﻿site_name: inventáře.cz/ARchiv «PLZEŇ» ONline – nápověda a seznam zkratek
+﻿site_name: inventáře.cz – nápověda a seznam zkratek
 repo_url: https://github.com/PetrKocourek/help.inventare.cz
 edit_uri: edit/main/docs
+
+copyright: "© 2025 Státní oblastní archiv v Plzni · <a href='https://www.soaplzen.cz'>soaplzen.gov.cz</a> · <a href='https://www.inventare.cz'>inventare.cz</a> · <a href='https://www.portafontium.eu'>portafontium.eu</a>"
 
 theme:
   name: material
@@ -9,6 +11,10 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - toc.integrate
+    - navigation.top
     - content.code.copy
   palette:
     scheme: default
@@ -17,38 +23,76 @@ theme:
       name: Přepnout režim
 
 markdown_extensions:
-  - toc:
-      permalink: true
-      toc_depth: 3
+  - abbr
   - admonition
   - footnotes
   - pymdownx.superfences
   - pymdownx.highlight
   - pymdownx.inlinehilite
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      base_path:
+        - snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+      toc_depth: 3
 
 plugins:
-  - search
+  - search:
+      lang: [en, cs]
+      separator: '[\s\-]+'
 
+extra:
+  social:
+    - icon: fontawesome/solid/circle-info
+      link: https://www.inventare.cz
+      name: inventare.cz
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/SOAvPlzni
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/archivplzen
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/SOAvPlzni
+  generator: false
+  nav:
+    - icon: material/help-circle
+      title: Nápověda
+    - icon: material/order-alphabetical-ascending
+      title: Zkratky
+    - icon: material-arrow-u-right-top-bold
+      title: ZPĚT na inventáře.cz
+    - icon: material-sitemap
+      title: Archivní soubory
+    - icon: material-file-document-multiple
+      title: Archiválie
+    - icon: material-label
+      title: Přístupové body
+      
 nav:
-  - Nápověda:
-      - Úvod: help/index.md
-      - Jak vyhledávat: help/searching.md
-      - Úvodní strana: help/home.md
-      - Sekce: help/sections.md
-  - Vysvětlivky: glossary/index.md
+  - Úvod: index.md
+  - Nápověda: 
+    - Vysvětlivky: help/index.md
+    - Jak na webu vyhledávat: help/searching.md
+    - Úvodní strana webu: help/homepage.md
+    - Sekce: 
+      - Společné prvky sekcí: sections/index.md
+      - Archivní soubory: sections/fund.md
+      - Archiválie: sections/archdesc.md
+      - Přístupové body: sections/entity.md
   - Zkratky:
-      - Rozcestník: abbreviations/index.md
-      - 0–9: abbreviations/0-9.md
-      - A,B,C,Č: abbreviations/a-c.md
-      - D,E,F,G,H: abbreviations/d-h.md
-      - CH,I,J,K: abbreviations/ch-k.md
-      - L,M,N: abbreviations/l-n.md
-      - O: abbreviations/o.md
-      - P,R: abbreviations/p-r.md
-      - S: abbreviations/s.md
-      - T,U,V: abbreviations/t-v.md
-      - Y,Z,Ž: abbreviations/y-z.md
+    - 0–9: abbreviations/index.md
+    - A, B, C, Č: abbreviations/a-c.md
+    - D, E, F, G, H: abbreviations/d-h.md
+    - CH, I, J, K: abbreviations/ch-k.md
+    - L, M, N: abbreviations/l-n.md
+    - O: abbreviations/o.md
+    - P, R, Ř: abbreviations/p-r.md
+    - S, Š: abbreviations/s.md
+    - T, U, V: abbreviations/t-v.md
+    - Y, Z, Ž: abbreviations/y-z.md
+  - ↻ ZPĚT na inventáře.cz: https://www.inventare.cz
 
 extra_css:
   - css/extra.css

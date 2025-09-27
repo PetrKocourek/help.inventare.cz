@@ -20,3 +20,37 @@ dl.abbr-list dd {
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: .5rem;
 }
+
+/* Globální nastavení pro ikonky v navigaci */
+.md-nav__link::before {
+  font-family: "Material Symbols Outlined";
+  font-size: 1.1em;
+  vertical-align: middle;
+  margin-right: .4em;
+  display: inline-block;
+}
+
+/* Konkrétní položky */
+.md-nav__link[href$="index.html"]::before {
+  content: "help"; /* Nápověda */
+}
+
+.md-nav__link[href*="abbreviations/index.html"]::before {
+  content: "sort_by_alpha"; /* Zkratky */
+}
+
+.md-nav__link[href="https://www.inventare.cz"]::before {
+  content: "arrow_outward"; /* Zpět na inventare.cz */
+}
+
+.md-nav__link[href*="sections/fund.html"]::before {
+  content: "sitemap"; /* Archivní soubory */
+}
+
+.md-nav__link[href*="sections/archdesc.html"]::before {
+  content: "description"; /* Archiválie */
+}
+
+.md-nav__link[href*="sections/entity.html"]::before {
+  content: "label"; /* Přístupové body */
+}
