@@ -1,6 +1,4 @@
 ﻿site_name: inventáře.cz – nápověda a seznam zkratek
-repo_url: https://github.com/PetrKocourek/help.inventare.cz
-edit_uri: edit/main/docs
 
 copyright: "© 2025 Státní oblastní archiv v Plzni · <a href='https://www.soaplzen.cz'>soaplzen.gov.cz</a> · <a href='https://www.inventare.cz'>inventare.cz</a> · <a href='https://www.portafontium.eu'>portafontium.eu</a>"
 
@@ -16,8 +14,6 @@ theme:
     - toc.integrate
     - navigation.top
     - content.code.copy
-  icon:
-    repo: false
   palette:
     scheme: default
     toggle:
