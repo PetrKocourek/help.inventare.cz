@@ -22,7 +22,8 @@ včetně okresních archivů z Plzeňského a Karlovarského kraje.
 U části archivních souborů jsou dostupné i archivní pomůcky – buď naskenované, nebo ve formátu PDF.
 
 Hlavní novinkou je databázový archivní popis – moderní obdoba inventárních seznamů, kterou najdete v sekci [Archiválie](help/archdesc.md), 
-a&nbsp;[přístupové body](sections/entity.md), které fungují jako jednotný rejstřík lokalit, původců, osob, událostí a pojmů napříč celým archivem. 
+a&nbsp;[přístupové body](sections/entity.md), které fungují jako jednotný rejstřík 
+lokalit, původců, osob, událostí a pojmů napříč celým archivem. 
 
 Databázové záznamy umožňují nejen fulltextové vyhledávání, 
 ale i filtrování podle různých kritérií a procházení archivních souborů ve stromové struktuře (více v&nbsp;nápovědě k&nbsp;sekci [Archiválie](help/archdesc.md)).
