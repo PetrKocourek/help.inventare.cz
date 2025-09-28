@@ -16,6 +16,8 @@ theme:
     - toc.integrate
     - navigation.top
     - content.code.copy
+  icon:
+    repo: false
   palette:
     scheme: default
     toggle:
