@@ -23,6 +23,7 @@ theme:
 markdown_extensions:
   - abbr
   - admonition
+  - attr_list
   - footnotes
   - pymdownx.superfences
   - pymdownx.highlight
