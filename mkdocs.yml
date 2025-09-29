@@ -67,6 +67,8 @@ extra:
       title: Archiválie
     - icon: material-label
       title: Přístupové body
+    - icon: material-book-information-variant
+      title: Vysvětlivky
       
 nav:
   - Úvod: index.md
@@ -79,6 +81,7 @@ nav:
       - Archivní soubory: sections/fund.md
       - Archiválie: sections/archdesc.md
       - Přístupové body: sections/entity.md
+    - Vysvětlivky: help/glossary.md
   - Zkratky:
     - 0–9: abbreviations/index.md
     - A, B, C, Č: abbreviations/a-c.md

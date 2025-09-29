@@ -2,7 +2,7 @@
 
 ## :material-swap-horizontal: Rozcestník
 
-**[:material-help-circle: Nápověda](help/index.md)**: rychlý přehled hlavních pojmů a významu ikon
+**[:material-help-circle: Nápověda](help/index.md)**
 
 * **[Jak na webu vyhledávat](help/searching.md)**: fulltextové vyhledávání, filtrování a řazení výsledků, hledání podle přístupových bodů
 
@@ -10,7 +10,9 @@
 
 * **[Sekce](sections/index.md)**: [:material-sitemap: Archivní soubory](sections/fund.md) (fondy a sbírky) · [:material-file-document-multiple: Archiválie](sections/archdesc.md) (jednotky popisu) · [:material-label: Přístupové body](sections/entity.md) (rejstřík)  
 
-**[:material-order-alphabetical-ascending: Zkratky](abbreviations/index.md)**: seznam zkratek, které se vyskytují v&nbsp;archivním popisu (viz sekce [Archiválie](help/archdesc.md)) a v&nbsp;archivních pomůckách (v&nbsp;inventářích)
+* [:material-book-information-variant: Vysvětlivky](help/glossary.md): přehled hlavních pojmů a významu ikon
+
+**[:material-order-alphabetical-ascending: Zkratky](abbreviations/index.md)**: seznam zkratek, které se vyskytují v&nbsp;archivním popisu (viz sekce [Archiválie](sections/archdesc.md)) a v&nbsp;archivních pomůckách (v&nbsp;inventářích)
 
 ## O webu [inventare.cz](https://www.inventare.cz) – archivní popis
 
@@ -28,7 +30,7 @@ Hlavní novinkou je **databázový archivní popis**:
 [:material-label: Přístupové body](sections/entity.md) – fungují jako jednotný rejstřík lokalit, původců, osob, událostí a pojmů napříč celým archivem. 
 
 Databázové záznamy umožňují nejen fulltextové vyhledávání, 
-ale i filtrování podle různých kritérií a procházení archivních souborů ve stromové struktuře (více v&nbsp;nápovědě k&nbsp;sekci [Archiválie](help/archdesc.md)).
+ale i filtrování podle různých kritérií a procházení archivních souborů ve stromové struktuře (více v&nbsp;nápovědě k&nbsp;sekci [Archiválie](sections/archdesc.md)).
 
 V současnosti je databázově zpřístupněna asi třetina ze všech zpracovaných archiválií. 
 Nadále probíhá databázový popis dosud nezpracovaných archiválií a pokračuje i práce na přepisu starých archivních pomůcek do databázové podoby.
