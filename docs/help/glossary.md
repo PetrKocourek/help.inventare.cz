@@ -32,7 +32,7 @@ Seznam základních pojmů používaných v archivním popisu.
 |<span class="term-with-icon"><img src="../img/archival-serie.svg" class="icon-3em" alt="ikona Série">Série</span> | Jednotka popisu vyjadřující souvislosti mezi skupinami archiválií v rámci archivního souboru. Odpovídá nadpisu ve starších archivních pomůckách. Viz též [pravidla popisu archiválií](https://stands.nacr.cz/zp/03-popis-arch.html).|
 |<span class="term-with-icon"><img src="../img/archival-folder.svg" class="icon-3em" alt="ikona Složka">Složka</span> | Jednotka popisu obsahující více jednotlivostí nebo podsložky. Viz též [pravidla popisu archiválií](https://stands.nacr.cz/zp/03-popis-arch.html).|
 | Ukládací číslo | Jednoznačný identifikátor fyzického uložení jednotky popisu v rámci archivního souboru. Viz též [prvky popisu archiválií](https://stands.nacr.cz/zp/04-prvky-popisu.html#ukladaci-jednotka-cislo). |
-| Úrovně popisu | Archivní popis je víceúrovňový: archivní soubor → série → složka → jednotlivost → část jednotlivosti. Viz též [pravidla popisu archiválií](https://stands.nacr.cz/zp/03-popis-arch.html). |
+| Úrovně popisu | Archivní popis je víceúrovňový: archiv → archivní soubor → série → složka → jednotlivost → část jednotlivosti. Viz též [pravidla popisu archiválií](https://stands.nacr.cz/zp/03-popis-arch.html). |
 | Základní pravidla | Základní pravidla pro zpracování archiválií, [metodická příručka](https://stands.nacr.cz/zp/) Ministerstva vnitra. |
 
 ---
