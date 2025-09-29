@@ -17,13 +17,15 @@
 Prezentační web [inventare.cz](https://www.inventare.cz) nyní běží na platformě ARON, 
 která nabízí nové možnosti oproti starší verzi určené pro publikaci archivních pomůcek. 
 
-Nově zde naleznete seznam a stručný popis všech [archivních souborů](sections/fund.md) Státního oblastního archivu v&nbsp;Plzni (SOA v&nbsp;Plzni) 
+Nově zde naleznete seznam a stručný popis všech [:material-sitemap: archivních souborů](sections/fund.md) Státního oblastního archivu v&nbsp;Plzni (SOA v&nbsp;Plzni) 
 včetně okresních archivů z Plzeňského a Karlovarského kraje.
 U části archivních souborů jsou dostupné i archivní pomůcky – buď naskenované, nebo ve formátu PDF.
 
-Hlavní novinkou je databázový archivní popis – moderní obdoba inventárních seznamů, kterou najdete v sekci [Archiválie](help/archdesc.md), 
-a&nbsp;[přístupové body](sections/entity.md), které fungují jako jednotný rejstřík 
-lokalit, původců, osob, událostí a pojmů napříč celým archivem. 
+Hlavní novinkou je **databázový archivní popis**:
+
+[:material-file-document-multiple: Archiválie](sections/archdesc.md) – moderní obdoba inventárních seznamů v archivních pomůckách, 
+
+[:material-label: Přístupové body](sections/entity.md) – fungují jako jednotný rejstřík lokalit, původců, osob, událostí a pojmů napříč celým archivem. 
 
 Databázové záznamy umožňují nejen fulltextové vyhledávání, 
 ale i filtrování podle různých kritérií a procházení archivních souborů ve stromové struktuře (více v&nbsp;nápovědě k&nbsp;sekci [Archiválie](help/archdesc.md)).
