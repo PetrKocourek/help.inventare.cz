@@ -4,7 +4,7 @@ title: Nápověda – rozcestník
 ---
 # :material-swap-horizontal: Nápověda – rozcestník
 
-**[Úvod](index.md)**: [O&nbsp;webu inventare.cz](../index.md#o-webu-inventarecz-archivni-popis), [O&nbsp;webu Porta fontium – digitalizované archiválie](../index.md#o-webu-porta-fontium-digitalizovane-archivalie), [O&nbsp;archivu](../index.md#o-archivu), [O&nbsp;nápovědě](../index.md#o-napovede)
+**[Úvod](../index.md)**: [O&nbsp;webu inventare.cz](../index.md#o-webu-inventarecz-archivni-popis), [O&nbsp;webu Porta fontium – digitalizované archiválie](../index.md#o-webu-porta-fontium-digitalizovane-archivalie), [O&nbsp;archivu](../index.md#o-archivu), [O&nbsp;nápovědě](../index.md#o-napovede)
 
 **[:material-help-circle: Nápověda](index.md)** – rozcestník
 
