@@ -20,3 +20,50 @@ dl.abbr-list dd {
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: .5rem;
 }
+
+.icon-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  gap: 1rem;
+  text-align: center;
+}
+
+.term-with-icon { 
+  display:inline-flex; 
+  align-items:center; 
+  gap:.5em; 
+}
+
+.term-with-icon img { 
+  flex-shrink:0; 
+}
+
+.icon-1em {
+  width: 1em;
+  height: auto;
+  vertical-align: middle;
+}
+
+.icon-1_5em {
+  width: 1.5em;
+  height: auto;
+  vertical-align: middle;
+}
+
+.icon-2em {
+  width: 2em;
+  height: auto;
+  vertical-align: middle;
+}
+
+.icon-2_5em {
+  width: 2.5em;
+  height: auto;
+  vertical-align: middle;
+}
+
+.icon-3em {
+  width: 3em;
+  height: auto;
+  vertical-align: middle;
+}
