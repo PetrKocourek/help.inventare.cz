@@ -8,29 +8,29 @@
 
 * **[Úvodní strana webu](help/homepage.md)**: horní lišta, obecné vyhledávací pole, oddíly Mohlo by vás zajímat a Porta fontium
 
-* **[Sekce](sections/shared.md)**: [:material-sitemap: Archivní soubory](sections/fund.md) (fondy a sbírky) · [:material-file-document-multiple: Archiválie](sections/archdesc.md) (jednotky popisu) · [:material-label: Přístupové body](sections/entity.md) (rejstřík)  
+* **[Sekce](sections/shared.md)**: [:material-sitemap: Archivní soubory](sections/section-fund.md) (fondy a sbírky) · [:material-file-document-multiple: Archiválie](sections/section-archdesc.md) (jednotky popisu) · [:material-label: Přístupové body](sections/section-entity.md) (rejstřík)  
 
 * [:material-book-information-variant: Vysvětlivky](help/glossary.md): přehled hlavních pojmů a významu ikon
 
-**[:material-order-alphabetical-ascending: Zkratky](abbreviations/index.md)**: seznam zkratek, které se vyskytují v&nbsp;archivním popisu (viz sekce [Archiválie](sections/archdesc.md)) a v&nbsp;archivních pomůckách (v&nbsp;inventářích)
+**[:material-order-alphabetical-ascending: Zkratky](abbreviations/index.md)**: seznam zkratek, které se vyskytují v&nbsp;archivním popisu (viz sekce [Archiválie](sections/section-archdesc.md)) a v&nbsp;archivních pomůckách (v&nbsp;inventářích)
 
 ## O webu [inventare.cz](https://www.inventare.cz) – archivní popis
 
 Prezentační web [inventare.cz](https://www.inventare.cz) nyní běží na platformě ARON, 
 která nabízí nové možnosti oproti starší verzi určené pro publikaci archivních pomůcek. 
 
-Nově zde naleznete seznam a stručný popis všech [:material-sitemap: archivních souborů](sections/fund.md) Státního oblastního archivu v&nbsp;Plzni (SOA v&nbsp;Plzni) 
+Nově zde naleznete seznam a stručný popis všech [:material-sitemap: archivních souborů](sections/section-fund.md) Státního oblastního archivu v&nbsp;Plzni (SOA v&nbsp;Plzni) 
 včetně okresních archivů z Plzeňského a Karlovarského kraje.
 U části archivních souborů jsou dostupné i archivní pomůcky – buď naskenované, nebo ve formátu PDF.
 
 Hlavní novinkou je **databázový archivní popis**:
 
-[:material-file-document-multiple: Archiválie](sections/archdesc.md) – moderní obdoba inventárních seznamů v archivních pomůckách, 
+[:material-file-document-multiple: Archiválie](sections/section-archdesc.md) – moderní obdoba inventárních seznamů v archivních pomůckách, 
 
-[:material-label: Přístupové body](sections/entity.md) – fungují jako jednotný rejstřík lokalit, původců, osob, událostí a pojmů napříč celým archivem. 
+[:material-label: Přístupové body](sections/section-entity.md) – fungují jako jednotný rejstřík lokalit, původců, osob, událostí a pojmů napříč celým archivem. 
 
 Databázové záznamy umožňují nejen fulltextové vyhledávání, 
-ale i filtrování podle různých kritérií a procházení archivních souborů ve stromové struktuře (více v&nbsp;nápovědě k&nbsp;sekci [Archiválie](sections/archdesc.md)).
+ale i filtrování podle různých kritérií a procházení archivních souborů ve stromové struktuře (více v&nbsp;nápovědě k&nbsp;sekci [Archiválie](sections/section-archdesc.md)).
 
 V současnosti je databázově zpřístupněna asi třetina ze všech zpracovaných archiválií. 
 Nadále probíhá databázový popis dosud nezpracovaných archiválií a pokračuje i práce na přepisu starých archivních pomůcek do databázové podoby.

@@ -12,7 +12,9 @@ Platforma ARON se dále vyvíjí a v nejbližší době bude věnována zvýšen
  
 ## Filtrování výsledků
 
-Výsledky vyhledávání je možné zpřesnit pomocí filtrů, které se liší podle jednotlivých sekcí ([Archivní soubory](../sections/fund.md), [Archiválie](../sections/archdesc.md), [Přístupové body](../sections/entity.md)). Filtry lze kombinovat a vždy se zobrazí jen záznamy splňující všechny zadané podmínky.
+Výsledky vyhledávání je možné zpřesnit pomocí filtrů, které se liší podle jednotlivých sekcí 
+([:material-sitemap: Archivní soubory](../sections/section-fund.md), [:material-file-document-multiple: Archiválie](../sections/section-archdesc.md) nebo [:material-label: Přístupové body](../sections/section-entity.md)). 
+Filtry lze kombinovat a vždy se zobrazí jen záznamy splňující všechny zadané podmínky.
 
 ![Ukázka filtrování výsledků](./img/search-filter.png)
 
@@ -24,6 +26,6 @@ Do budoucna se počítá i s možností řazení podle dalších kritérií (nap
 
 ## Hledání podle přístupových bodů
 
-Další možností je vyhledávání pomocí přístupových bodů (entit). Ty fungují podobně jako klíčová slova, lze najít všechny archiválie napojené na stejnou entitu. Tento způsob vyhledávání bude hrát větší roli spíše až v budoucnu, kdy bude více záznamů opatřeno přístupovými body. Viz též [Přístupové body](../sections/entity.md).
+Další možností je vyhledávání pomocí přístupových bodů (entit). Ty fungují podobně jako klíčová slova, lze najít všechny archiválie napojené na stejnou entitu. Tento způsob vyhledávání bude hrát větší roli spíše až v budoucnu, kdy bude více záznamů opatřeno přístupovými body. Viz též [:material-label: Přístupové body](../sections/section-entity.md).
 
 *[ARON]: ARchiv ONline

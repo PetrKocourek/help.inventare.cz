@@ -4,10 +4,10 @@
 
 Horní lišta obsahuje odkazy do jednotlivých sekcí webu:
 
-- **[:material-sitemap: Archivní soubory](../sections/fund.md)**
-- **[:material-file-document-multiple: Archiválie](../sections/archdesc.md)**
-- **[:material-label: Přístupové body](../sections/entity.md)**
-- **[Nápověda a zkratky](../index.md)**
+- [:material-sitemap: Archivní soubory](../sections/section-fund.md)
+- [:material-file-document-multiple: Archiválie](../sections/section-archdesc.md)
+- [:material-label: Přístupové body](../sections/section-entity.md)
+- [Nápověda a zkratky](../index.md)
 
 Lze zde také přepínat jazykové mutace webu, ale přeloženy jsou jen pevné prvky (popisky) formulářů, nikoli data ani nápověda.
 
@@ -31,7 +31,7 @@ Pod obecným vyhledávacím polem je přepínač, kterým lze zúžit rozsah vyh
 
 ## Mohlo by vás zajímat
 
-Předpřipravené vyhledávací dotazy na zajímavé typy archiválií (zatím pouze na technické výkresy a mapy). Ke stejnému výsledku bychom došli, kdybychom si v sekci Archiválie zaškrtli ve fasetě pole `technický výkres` nebo `mapa`. 
+Pod přepínačem jsou předpřipravené vyhledávací dotazy na zajímavé typy archiválií (zatím pouze na technické výkresy a mapy). Ke stejnému výsledku bychom došli, kdybychom vyhledávali v sekci [:material-file-document-multiple: Archiválie](../sections/section-archdesc.md) a zaškrtli bychom ve fasetě `Druh archiválie` pole `technický výkres` nebo `mapa`. 
 
 ![Mohlo by vás zajímat](./img/search-interesting.png)
 
@@ -39,5 +39,5 @@ Až budou databázové záznamy archiválií systematicky opatřovány přístup
 
 ## Porta fontium
 
-Odkazy na tematické databáze s digitalizáty na webu [Porta fontium](https://www.portafontium.eu). 
+V dolní části úvodní obrazovky jsou odkazy na tematické databáze s digitalizáty na webu [Porta fontium](https://www.portafontium.eu). 
 

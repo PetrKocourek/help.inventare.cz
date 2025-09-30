@@ -1,6 +1,6 @@
 ﻿# Společné prvky sekcí
 
-Sekce **[:material-sitemap: Archivní soubory](fund.md)**, **[:material-file-document-multiple: Archiválie](archdesc.md)** a **[:material-label: Přístupové body](entity.md)** mají společné uspořádání obrazovky:
+Sekce [:material-sitemap: Archivní soubory](section-fund.md), [:material-file-document-multiple: Archiválie](section-archdesc.md) a [:material-label: Přístupové body](section-entity.md) mají společné uspořádání obrazovky:
 
 ## Panel vyhledávání
 
@@ -23,7 +23,7 @@ Výsledky jsou řazeny podle relevance, nejprve záznamy, kde se hledaný text n
 
 Kliknutím na záznam se otevře detailní zobrazení. Obsahuje všechny dostupné informace, tedy i ty, které se nezobrazují v&nbsp;přehledu výsledků.
 
-- V sekcích **[:material-sitemap: Archivní soubory](fund.md)** a **[:material-label: Přístupové body](entity.md)** se záznam zobrazuje v jednom panelu.
-- V sekci **[:material-file-document-multiple: Archiválie](archdesc.md)** je doplněn ještě levý panel se stromovou strukturou celého archivního souboru, což umožňuje přecházet mezi souvisejícími záznamy.
+- V sekcích [:material-sitemap: Archivní soubory](section-fund.md) a [:material-label: Přístupové body](section-entity.md) se záznam zobrazuje v jednom panelu.
+- V sekci [:material-file-document-multiple: Archiválie](section-archdesc.md) je doplněn ještě levý panel se stromovou strukturou celého archivního souboru, což umožňuje přecházet mezi souvisejícími záznamy.
 
 ![Ukázka detailního zobrazení záznamu](./img/detail.png)

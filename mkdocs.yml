@@ -80,9 +80,9 @@ nav:
     - Sekce: 
       - Sekce – úvod: sections/index.md
       - Společné prvky sekcí: sections/shared.md
-      - Archivní soubory: sections/fund.md
-      - Archiválie: sections/archdesc.md
-      - Přístupové body: sections/entity.md
+      - Archivní soubory: sections/section-fund.md
+      - Archiválie: sections/section-archdesc.md
+      - Přístupové body: sections/section-entity.md
     - Vysvětlivky: help/glossary.md
   - Zkratky:
     - 0–9: abbreviations/index.md
