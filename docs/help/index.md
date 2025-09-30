@@ -12,7 +12,7 @@ title: Nápověda – rozcestník
 
 * **[Úvodní strana webu](homepage.md)**: horní lišta, obecné vyhledávací pole, oddíly Mohlo by vás zajímat a Porta fontium
 
-* **[Sekce](../sections/index.md)**: [:material-sitemap: Archivní soubory](../sections/fund.md) (fondy a sbírky) · [:material-file-document-multiple: Archiválie](../sections/archdesc.md) (jednotky popisu) · [:material-label: Přístupové body](../sections/entity.md) (rejstřík)  
+* **[Sekce](../sections/shared.md)**: [:material-sitemap: Archivní soubory](../sections/fund.md) (fondy a sbírky) · [:material-file-document-multiple: Archiválie](../sections/archdesc.md) (jednotky popisu) · [:material-label: Přístupové body](../sections/entity.md) (rejstřík)  
 
 * [:material-book-information-variant: Vysvětlivky](glossary.md): přehled hlavních pojmů a významu ikon
 

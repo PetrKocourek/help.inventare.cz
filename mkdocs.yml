@@ -78,7 +78,8 @@ nav:
     - Jak na webu vyhledávat: help/searching.md
     - Úvodní strana webu: help/homepage.md
     - Sekce: 
-      - Společné prvky sekcí: sections/index.md
+      - Sekce – úvod: sections/index.md
+      - Společné prvky sekcí: sections/shared.md
       - Archivní soubory: sections/fund.md
       - Archiválie: sections/archdesc.md
       - Přístupové body: sections/entity.md

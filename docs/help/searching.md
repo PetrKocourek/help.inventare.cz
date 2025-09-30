@@ -4,7 +4,7 @@
 
 Fulltext nerozlišuje velká a malá písmena a ignoruje diakritiku. Pokud chceme vyhledat archiválie vztahující se k lyžařům, stačí zadat např. `lyzar`.
 
-Vyhledávač však neumí pracovat s různými koncovkami slov. Pokud zadáme `lyžařský`, nenajdou se záznamy obsahující výraz `lyžařské`. Vhodnější je hledat zkráceným řetězcem, např. `lyzarsk` nebo `lyzar`.
+Vyhledávač neumí pracovat s různými koncovkami slov. Pokud zadáme `lyžařský`, nenajdou se záznamy obsahující výraz `lyžařské`. Vhodnější je text zkrátit, např. `lyzarsk` nebo `lyzar`.
 
 Pro víceslovné řetězce platí, že **první slovo musí být zadáno celé**, další slova lze zkrátit. Například dotaz `hasicska zbrojn` vyhledá záznamy o hasičských zbrojnicích, zatímco `hasic zbrojn` nenajde nic.
 
@@ -24,8 +24,6 @@ Do budoucna se počítá i s možností řazení podle dalších kritérií (nap
 
 ## Hledání podle přístupových bodů
 
-Další možností je vyhledávání pomocí přístupových bodů (entit). Ty fungují podobně jako klíčová slova, ale jsou řízené archivní autority: osoby, korporace, místa, události, díla či pojmy.
-
-Výhodou je, že všechny archiválie napojené na stejnou entitu se dají dohledat jedním kliknutím. Nevýhodou je, že napojování entit je zatím v začátcích, a proto nejsou výsledky úplné.
+Další možností je vyhledávání pomocí přístupových bodů (entit). Ty fungují podobně jako klíčová slova, lze najít všechny archiválie napojené na stejnou entitu. Tento způsob vyhledávání bude hrát větší roli spíše až v budoucnu, kdy bude více záznamů opatřeno přístupovými body. Viz též [Přístupové body](../sections/entity.md).
 
 *[ARON]: ARchiv ONline
