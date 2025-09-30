@@ -13,13 +13,13 @@ Seznam ikon použitých ve výsledcích vyhledávání archivních souborů a ar
 <div class="icon-cell">
   <img src="../img/F.svg" class="icon-3em" alt="ikona archivní soubor">
   <div class="label">archivní soubor</div>
-  <div class="detail">data ze systému <abbr title="Program pro Evidence Archivu">PEvA</abbr></div>
+  <div class="detail">(data ze systému <abbr title="Program pro Evidence Archivu">PEvA</abbr>)</div>
 </div>
 
 <div class="icon-cell">
   <img src="../img/archival-root.svg" class="icon-3em" alt="ikona kořen archivního souboru">
   <div class="label">kořen archivního souboru</div>
-  <div class="detail">data ze systému <abbr title="ELektronické Zpracování Archiválií">ELZA</abbr></div>
+  <div class="detail">(data ze systému <abbr title="ELektronické Zpracování Archiválií">ELZA</abbr>)</div>
 </div>
 
 <div class="icon-cell">
@@ -121,7 +121,7 @@ Význam symbolů ve výsledcích vyhledávání archiválií.
 
 
 ## Pojmy
-Seznam základních pojmů používaných v archivním popisu.
+Seznam základních pojmů používaných v souvislosti s&nbsp;archivním popisem.
 
 | Ikona &vellip; Pojem | Popis |
 |-------|-------|
@@ -135,10 +135,10 @@ Seznam základních pojmů používaných v archivním popisu.
 | ARON | Software **AR**chiv **ON**line, vyvinutý za účelem prezentace archivního popisu pořízeného v softwaru ELZA, v systému PEvA a prezentace digitalizovaných archiválií. Je užíván též státními archivy [MZA v Brně](https://www.mza.cz/aron/), [SOA v Hradci Králové](https://aron.vychodoceskearchivy.cz/), [Literárním archivem Památníku národního písemnictví](https://pruvodce.pamatnik-np.cz/) a v&nbsp;Národním archivním portálu pro zpřístupnění obsahu [celostátní databáze PEvA](https://portal.nacr.cz/aron). Vývoj a správu zrojového kódu open source softwaru ARON podporuje Ministerstvo vnitra. |
 | Centrální archivní modul (CAM) | Celostátní sdílená databáze určená pro uchování a sdílení popisu archivních autoritních záznamů. [Informační systém CAM](https://cam.nacr.cz/) je součástí Národního archivního portálu, metodicky jej zaštiťuje [Kolegium archivů](https://cam.nacr.cz/info/provoznirad3.html). |
 |<span class="term-with-icon">Část jednotlivosti<img src="../img/archival-item-part.svg" class="icon-2_5em" alt="ikona část jednotlivosti"></span> | Část archiválie popsaná jako jednotlivost, která je podřazená jiné jednotlivosti, bez ohledu na to, zda je od ní fyzicky oddělitelná. Viz též [pravidla popisu archiválií](https://stands.nacr.cz/zp/03-popis-arch.html). |
-| Číslo EL NAD | Číslo archivního souboru v systému PEvA. Unikátní číselná řada v rámci jednoho archivu, například v rámci Státního okresního archivu. |
+| Číslo EL NAD | Číslo archivního souboru v systému PEvA. Každý archiv (včetně okresních archivů) má svoji vlastní číselnou řadu. |
 | Dokument | Písemná, obrazová, zvuková nebo jinak zaznamenaná informace, která byla vytvořena původcem nebo byla původci doručena. Viz [§ 2 písm. e) zákona č. 499/2004 Sb.](https://www.e-sbirka.cz/sb/2004/499). |
 | Entita | Konkrétní nebo abstraktní objekt popisovaný formou archivního autoritního záznamu za účelem tvorby přístupových bodů a rejstříků. Viz též [pravidla popisu entit](https://stands.nacr.cz/zp/06-autor-zazn.html). Viz [symboly pro třídy entit (ikony)](#symboly-pro-tridy-entit). |
-| Evidenční jednotka (EJ) | Základní jednotka pro počítání a vykazování množství archiválií. Ve starších archivních pomůckách číslo evidenční jednotky odpovídá dnešnímu ukládacímu číslu. Viz též [pravidla zpracování archiválií](https://stands.nacr.cz/zp/02-arch-zprac.html#evidencni-jednotky). |
+| Evidenční jednotka (EJ) | Základní jednotka pro počítání a vykazování množství archiválií. Ve starších archivních pomůckách se často uvádí v inventárních seznamech číslo evidenční jednotky (ev. j. č.), to odpovídá dnešnímu ukládacímu číslu. Viz též [pravidla zpracování archiválií](https://stands.nacr.cz/zp/02-arch-zprac.html#evidencni-jednotky). |
 | ELZA | Software pro **EL**ektronické **Z**pracování **A**rchiválií, vyvinutý původně ve spolupráci archivů s Technologickou agenturou ČR za účelem implemetace Základních pravidel z roku 2015. Užíván většinou státních archivů. Vývoj a správu zrojového kódu open source softwaru ELZA zaštiťuje [Ministerstvo vnitra](https://mv.gov.cz/clanek/software-elza.aspx). |
 | EL NAD | Evidenční list Národního archivního dědictví. Informace o archviním souboru vedená v systému PEvA. |
 | Inventář | Základní archivní pomůcka s popisem na úrovni složek a jednotlivostí. Viz též [pravidla popisu archiválií](https://stands.nacr.cz/zp/03-popis-arch.html#inventar-dilci-inventar), [pravidla zpracování archiválií](https://stands.nacr.cz/zp/02-arch-zprac.html#archivni-pomucky). |
