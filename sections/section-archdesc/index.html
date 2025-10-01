@@ -572,6 +572,21 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 4v18h16v2H4c-1.1 0-2-.9-2-2V4zm11 3h5.5L15 1.5zM8 0h8l6 6v12c0 1.11-.89 2-2 2H8a2 2 0 0 1-2-2V2c0-1.11.89-2 2-2m9 16v-2H8v2zm3-4v-2H8v2z"/></svg>
+  
+  <span class="md-ellipsis">
+    Archiválie
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -585,6 +600,52 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Obsah">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Obsah
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#urovne-popisu" class="md-nav__link">
+    <span class="md-ellipsis">
+      Úrovně popisu
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vyhledavani-archivalii" class="md-nav__link">
+    <span class="md-ellipsis">
+      Vyhledávání archiválií
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#zobrazeni-ve-stromove-strukture" class="md-nav__link">
+    <span class="md-ellipsis">
+      Zobrazení ve stromové struktuře
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -989,7 +1050,36 @@
 
 
 <h1 id="sekce-archivalie">Sekce Archiválie<a class="headerlink" href="#sekce-archivalie" title="Permanent link">&para;</a></h1>
-<p>Obsah bude doplněn.</p>
+<p>V sekci <strong><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 4v18h16v2H4c-1.1 0-2-.9-2-2V4zm11 3h5.5L15 1.5zM8 0h8l6 6v12c0 1.11-.89 2-2 2H8a2 2 0 0 1-2-2V2c0-1.11.89-2 2-2m9 16v-2H8v2zm3-4v-2H8v2z"/></svg></span> Archiválie</strong> lze vyhledávat jednotlivé archiválie i celé skupiny archiválií. Zobrazují se pouze záznamy, které mají databázový popis vytvořený v systému ELZA nebo přepsaný ze starších pomůcek.</p>
+<h2 id="urovne-popisu">Úrovně popisu<a class="headerlink" href="#urovne-popisu" title="Permanent link">&para;</a></h2>
+<p>Archiválie jsou uspořádány hierarchicky:</p>
+<ol>
+<li><img src="/help/img/archival-root.svg" class="icon-1_5em" alt="ikona kořen archivního souboru"> <strong>Kořen archivního souboru</strong> – zde bývá podrobný popis celého archivního souboru.</li>
+<li><img src="/help/img/archival-serie.svg" class="icon-1_5em" alt="ikona série"> <strong>Série</strong> – tematické celky, odpovídají nadpisům ve starších invntárních seznamech.</li>
+<li><img src="/help/img/archival-folder.svg" class="icon-1_5em" alt="ikona složka"> <strong>Složka</strong> – obsahuje více archiválií, např. karton, spis, někdy také odpovídá nadpisu ve starších inventárních seznamech.</li>
+<li><img src="/help/img/archival-item.svg" class="icon-1_5em" alt="ikona jednotlivost"> <strong>Jednotlivost</strong> – jednotlivé archiválie, např. <img src="/help/img/archival-item-book.svg" class="icon-1_5em" alt="ikona kniha"> úřední knihy a rukopisy, <img src="/help/img/archival-item-map.svg" class="icon-1_5em" alt="ikona mapa"> mapy a plány, fotografie, listiny...</li>
+<li><img src="/help/img/archival-item-part.svg" class="icon-1_5em" alt="ikona část jednotlivosti"> <strong>Část jednotlivosti</strong> – např. zápis v knize, pečeť, díl mapy...</li>
+</ol>
+<p>Archivní soubor lze procházet ve <a href="#zobrazeni-ve-stromove-strukture">stromové struktuře</a>.</p>
+<h2 id="vyhledavani-archivalii">Vyhledávání archiválií<a class="headerlink" href="#vyhledavani-archivalii" title="Permanent link">&para;</a></h2>
+<p>V levém panelu lze vyhledávat pomocí fulltextu i filtrů:</p>
+<ul>
+<li><strong>Obecné vyhledávací pole</strong> <code>Vyhledávání</code> – hledá fulltextově v názvech i v popisu, viz <a href="../../help/searching/">Jak na webu vyhledávat</a>.</li>
+<li><strong>Datace vzniku</strong> – zobrazuje celkový časový rozsah všech vyhledaných archiválií. Po úpravě hodnoty filtru se zobrazí jen ty archiválie, jejichž vznik spadá do upraveného rozsahu.</li>
+<li><strong>Instituce</strong> – filtr podle archivů, lze kombinovat více institucí. Řazení institucí ve filtru je podle aktuálního počtu výsledků (počet je uveden v závorce u každé instituce).</li>
+<li><strong>Druh archiválie</strong> – spisy (složky) nebo jednotlivosti (např. knihy, mapy, technické výkresy). Druhy archiválií jsou ve filtru řazeny podle aktuálního počtu výsledků (počet je uveden v závorce u každé položky).</li>
+<li><strong>Digitální podoba</strong> – vyhledá jen archiválie s odkazem na digitální reprodukce. Klikutím na symbol <img src="/help/img/pf.svg" class="icon-2_5em" alt="ikona digitalizát"> vpravo nebo na náhled snímku vpravo přejdete na digitalizovanou archiválii zveřejněnou na webu <a href="https://www.portafontium.eu">Porta fontium</a>.</li>
+<li><strong>Archivní soubor</strong> – omezí vyhledávání jen na vybraný archivní soubor. Do pole se zadává název archivního souboru, je nutné vybrat některý ze souborů nabízených v našeptávači. Tento filtr je též aktivován dlaždicí <strong><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg></span> Vyhledat archiválie v archivním souboru</strong> v detailu archivního souboru, viz <a href="../section-fund/#detail-archivniho-souboru"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 2v6h2v3H5c-1.11 0-2 .89-2 2v3H1v6h6v-6H5v-3h6v3H9v6h6v-6h-2v-3h6v3h-2v6h6v-6h-2v-3c0-1.11-.89-2-2-2h-6V8h2V2z"/></svg></span> Archivní soubory</a>.</li>
+<li><strong>Rejstřík</strong> – filtr podle přístupových bodů, po zaškrtnutí druhu rejstříku je možné použít pole s našeptávačem, které se zobrazí dole. Napojování přístupových bodů je teprve v začátcích, takže filtr nenajde všechny relevantní záznamy, viz <a href="../section-entity/"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.63 5.84C17.27 5.33 16.67 5 16 5H5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h11c.67 0 1.27-.34 1.63-.85L22 12z"/></svg></span> Přístupové body</a>.</li>
+<li><strong>Pokročilé filtry</strong> – Možnost vyhledávání i podle dalších kritérií. Filtry jsou předmětem dalšího vývoje, postupně se budou zdokonalovat.</li>
+</ul>
+<p><img alt="Ukázka filtru" src="../img/search-archdesc.jpg" /></p>
+<h2 id="zobrazeni-ve-stromove-strukture">Zobrazení ve stromové struktuře<a class="headerlink" href="#zobrazeni-ve-stromove-strukture" title="Permanent link">&para;</a></h2>
+<p>Při otevření detailu archiválie </p>
+<p><img alt="Postup" src="../img/search-detail.png" /></p>
+<p>se vlevo zobrazí stromová struktura celého archivního souboru. Pomocí ní lze přecházet mezi jednotlivými záznamy.</p>
+<p>Do stejné struktury se dostanete i ze sekce <a href="../section-fund/#detail-archivniho-souboru"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 2v6h2v3H5c-1.11 0-2 .89-2 2v3H1v6h6v-6H5v-3h6v3H9v6h6v-6h-2v-3h6v3h-2v6h6v-6h-2v-3c0-1.11-.89-2-2-2h-6V8h2V2z"/></svg></span> Archivní soubory</a> kliknutím na dlaždici <strong><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 3h6v4H3zm12 7h6v4h-6zm0 7h6v4h-6zm-2-4H7v5h6v2H5V9h2v2h6z"/></svg></span> Seznam archiválií v archivním souboru</strong>.</p>
+<p><img alt="Ukázka detailního zobrazení záznamu" src="../img/archdesc-detail.png" /></p>
 
 
 

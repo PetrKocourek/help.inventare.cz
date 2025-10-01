@@ -115,6 +115,18 @@ dl.abbr-list dd {
   vertical-align: middle;
 }
 
+.icon-3_5em {
+  width: 3.5em;
+  height: auto;
+  vertical-align: middle;
+}
+
+.icon-4em {
+  width: 4em;
+  height: auto;
+  vertical-align: middle;
+}
+
 /* Změna barvy záhlaví */
 .md-header {
   background-color: #29333D;
