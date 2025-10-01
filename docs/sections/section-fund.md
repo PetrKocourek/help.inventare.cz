@@ -10,7 +10,7 @@ V sekci **:material-sitemap: Archivní soubory** lze vyhledávat a prohlížet p
 
 V levém panelu můžete kombinovat fulltextové vyhledávání a filtry:
 
-- **Obecné vyhledávací pole**: fulltextové vyhledávání v informacích o archivních souborech a o archivních pomůckách – viz [Jak na webu vyhledávat](../help/searching.md). Fulltextové vyhledávání zde **neprohledává obsah pomůcek**, tedy ani seznam archiválií, toho lze docílit hromadně jen v&nbsp;sekci Archiválie nebo v&nbsp;jednotlivých archivních pomůckách po rozkliknutí detailu jednotlivých archivních souborů – podrobněji v kapitole [Archivní pomůcky](#archivni-pomucky).
+- **Obecné vyhledávací pole**: fulltextové vyhledávání v informacích o archivních souborech a o archivních pomůckách – viz [Jak na webu vyhledávat](../help/searching.md). Fulltextové vyhledávání zde **neprohledává obsah pomůcek**, tedy ani seznam archiválií, toho lze docílit hromadně jen v&nbsp;sekci [:material-file-document-multiple: Archiválie](section-archdesc.md) nebo v&nbsp;jednotlivých archivních pomůckách po rozkliknutí detailu jednotlivých archivních souborů – podrobněji v kapitole [Archivní pomůcky](#archivni-pomucky).
 - **Název archivního souboru**: vyhledává v názvech, značkách a číslech archivních souborů (např. „Velkostatek Žinkovy“, značka „Vs Žinkovy“, číslo „20143“).
 - **Datace vzniku**: pokud zúžíme časový rozsah, zobrazí se jen ty archivní soubory, které obsahují alespoň jednu archiválii spadající do uvedeného rozsahu.
 - **Místo vzniku**: obvykle sídlo původce, případně více míst, pokud původce sídlo měnil.
@@ -28,13 +28,20 @@ Výsledky vyhledávání se zobrazují v&nbsp;pravém panelu.
 
 ## Detail archivního souboru
 
-Po kliknutí na vyhledaný záznam se otevře detail archivního souboru s&nbsp;podrobnějšími údaji a s&nbsp;odkazy na související archivní pomůcky v&nbsp;podobě dlaždic nahoře pod nadpisem **Archivní pomůcka**. 
+Po kliknutí na vyhledaný záznam 
 
 ![Postup](./img/fonds-result1.jpg)
 
-![Ukázka záznamu archivního souboru](./img/fonds-detail.png)
+se otevře detail archivního souboru s&nbsp;podrobnějšími údaji o&nbsp;archivním souboru.
+Pokud je archivní soubor nebo jeho část opatřena databázovým popisem, zobrazí se nahoře dlaždice: 
 
-Po kliknutí na dlaždici pod nadpisem **Archivní pomůcka** se zobrazí detail s informacemi o archivní pomůcce a obvykle také její vyhotovení v&nbsp;elektronické podobě ve formátu PDF nebo ve formě naskenovaných stránek strojopisné archivní pomůcky.
+**:material-file-tree: Seznam archiválií v archivním souboru** &nbsp; **:material-magnify: Vyhledat archiválie v archivním souboru** 
+
+Pomocí těchto dlaždic lze přejít na databázový archivní popis tohoto konkrétního archivního souboru, blíže viz [:material-file-document-multiple: Archiválie](section-archdesc.md). 
+
+Pokud je k archivnímu souboru nebo jeho části vydána alespoň jedna schválená archivní pomůcka, zobrazí se pod nadpisem **Archivní pomůcka** jedna nebo více dlaždic. Po kliknutí na dlaždici se zobrazí detail archivní pomůcky a obvykle k&nbsp;prohlížení nebo ke stažení i její obsah – tiskový výstup ve formátu PDF nebo naskenované strojopisné stránky.
+
+![Ukázka záznamu archivního souboru](./img/fonds-detail.png)
 
 ## Archivní pomůcky
 
@@ -47,9 +54,9 @@ Ty mohou být ve třech formách:
 
 ### Naskenované strojopisy
 
-Obvykle starší pomůcky vytvořené na psacím stroji, dostupné jsou jako obrázky. Zatím je nelze fulltextově prohledávat, ale mohou být vzadu opatřeny rejstříkem.
+Starší strojopisné pomůcky dostupné jako naskenované obrázky. Fulltextové vyhledávání zatím není k dispozici, některé pomůcky však na konci obsahují rejstřík.
 
-Po kliknutí na dlaždici pod nadpisem **Archivní pomůcka** se zobrazí detail archivní pomůcky včetně snímků naskenované archivní pomůcky. 
+Po kliknutí na dlaždici pod nadpisem **Archivní pomůcka** se zobrazí detail archivní pomůcky včetně naskenovaných snímků. 
 
 ![Postup](./img/fonds-detail1.jpg)
 
@@ -57,7 +64,7 @@ Po kliknutí na dlaždici pod nadpisem **Archivní pomůcka** se zobrazí detail
 
 ### Soubory ve formátu PDF
 
-Pomůcky pořízené elektronicky v textovém editoru nebo v databázovém systému. Archivní pomůcky ve formátu PDF lze stahovat a prohledávat fulltextem.
+Pomůcky vytvořené elektronicky v textovém editoru nebo databázovém systému. Lze je stahovat a fulltextově prohledávat.
 
 Po kliknutí na dlaždici s názvem archivní pomůcky pod nadpisem **Archivní pomůcka** se zobrazí detail archivní pomůcky. 
 
@@ -69,13 +76,14 @@ V detailu archivní pomůcky se pod nadpisem **Přílohy** objeví dlaždice se 
 
 ### Databázový archivní popis
 
-Po kliknutí na dlaždici s názvem archivní pomůcky pod nadpisem **Archivní pomůcka** se zobrazí detail archivní pomůcky. Stejně jako u ostatních archviních pomůcek může obsahovat tiskový výstup ke stažení ve formátu PDF nebo snímky naskenované starší pomůcky. 
+U archivních souborů zpracovaných v systému ELZA nebo u starších pomůcek přepsaných do databáze ELZA 
+je k&nbsp;dispozici tiskový výstup ke stažení ve formátu PDF nebo naskenované snímky starší pomůcky – stejně jako u ostatních archivních pomůcek.
 
-U archivních souborů zpracovaných v systému ELZA nebo u starších pomůcek přepsaných do databáze ELZA je navíc v detailu **archivního souboru** možné:
+Navíc je v detailu **archivního souboru** možné:
 
-* procházet archivní soubor ve stromové struktuře po kliknutí na dlaždici **:material-file-tree: Seznam archiválií v archivním souboru**.
+* procházet archivní soubor ve stromové struktuře po kliknutí na dlaždici **:material-file-tree: Seznam archiválií v archivním souboru**,
 
-* vyhledávat archiválie fulltextem a pomocí filtrů po kliknutí na dlaždici **:material-magnify: Vyhledat archiválie v archivním souboru**
+* vyhledávat archiválie fulltextem a pomocí filtrů po kliknutí na dlaždici **:material-magnify: Vyhledat archiválie v archivním souboru**.
 
 Podrobněji viz [:material-file-document-multiple: Archiválie](section-archdesc.md).
 
