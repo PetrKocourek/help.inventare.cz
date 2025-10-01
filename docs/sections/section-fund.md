@@ -10,21 +10,21 @@ V sekci **:material-sitemap: Archivní soubory** lze vyhledávat a prohlížet p
 
 V levém panelu můžete kombinovat fulltextové vyhledávání a filtry:
 
-- **Obecné vyhledávací pole**: fulltextové vyhledávání v informacích o archivních souborech a o archivních pomůckách – viz [Jak na webu vyhledávat](../help/searching.md). Fulltextové vyhledávání zde **neprohledává obsah pomůcek**, tedy ani seznam archiválií, toho lze docílit hromadně jen v&nbsp;sekci [:material-file-document-multiple: Archiválie](section-archdesc.md) nebo v&nbsp;jednotlivých archivních pomůckách po rozkliknutí detailu jednotlivých archivních souborů – podrobněji v kapitole [Archivní pomůcky](#archivni-pomucky).
-- **Název archivního souboru**: vyhledává v názvech, značkách a číslech archivních souborů (např. „Velkostatek Žinkovy“, značka „Vs Žinkovy“, číslo „20143“).
-- **Datace vzniku**: pokud zúžíme časový rozsah, zobrazí se jen ty archivní soubory, které obsahují alespoň jednu archiválii spadající do uvedeného rozsahu.
-- **Místo vzniku**: obvykle sídlo původce, případně více míst, pokud původce sídlo měnil.
-- **Archivní popis**: zobrazí jen soubory s databázovým popisem – viz [Databázový archivní popis](#databazovy-archivni-popis).
-- **Pomůcka**: zobrazí jen soubory s archivními pomůckami (téměř všechny jsou na webu dostupné, buď databázově, nebo v PDF, nebo naskenované).
-- **Instituce**: filtrování podle archivu, který má archivní soubor v péči.
-- **Oddělení**: archivní soubory centrály lze filtrovat podle příslušnosti k oddělením.
-- **Původce**: filtrování podle napojených přístupových bodů původců. Stačí začít psát jméno původce a objeví se našeptávač, který ale v&nbsp;jednom okamžiku nabízí jen 10 záznamů. Pokud tedy napíšeme do okna například slovo „Plzeň“, nabídka nebude dostatečná. Dotaz je pak třeba zúžit přidáním dalších znaků. Našeptávač nezohledňuje variantní názvy původců (např. německé názvy). Vylepšení tohoto filtru je předmětem dalšího vývoje.
-- **Tematická skupina**: filtrování podle tematického zařazení archivních souborů. Pořadí nabízených tematických skupin je podle aktuálně zobrazeného počtu výsledků pro danou skupinu.
-- **Pokročilé filtry**: možnost filtrování i podle dalších kritérií.
+- **Obecné vyhledávací pole** `Vyhledávání` – fulltextové vyhledávání v informacích o archivních souborech a o archivních pomůckách – viz [Jak na webu vyhledávat](../help/searching.md). Fulltextové vyhledávání zde **neprohledává obsah pomůcek**, tedy ani seznam archiválií, toho lze docílit hromadně jen v&nbsp;sekci [:material-file-document-multiple: Archiválie](section-archdesc.md) nebo v&nbsp;jednotlivých archivních pomůckách – podrobněji v kapitole [Archivní pomůcky](#archivni-pomucky).
+- **Název archivního souboru** – vyhledává v názvech, značkách a číslech archivních souborů (např. „Velkostatek Žinkovy“, značka „Vs Žinkovy“, číslo „20143“).
+- **Datace vzniku** – pokud zúžíme časový rozsah, zobrazí se jen ty archivní soubory, které obsahují alespoň jednu archiválii spadající do uvedeného rozsahu.
+- **Místo vzniku** – obvykle sídlo původce, případně více míst, pokud původce sídlo měnil.
+- **Archivní popis** – zobrazí jen soubory s databázovým popisem – viz [Databázový archivní popis](#databazovy-archivni-popis).
+- **Pomůcka** – zobrazí jen soubory s archivními pomůckami (téměř všechny jsou na webu dostupné, buď databázově, nebo v PDF, nebo naskenované).
+- **Instituce** – filtrování podle archivu, který má archivní soubor v péči.
+- **Oddělení** – archivní soubory centrály lze filtrovat podle příslušnosti k oddělením.
+- **Původce** – filtrování podle napojených přístupových bodů původců. Stačí začít psát jméno původce a objeví se našeptávač, který ale v&nbsp;jednom okamžiku nabízí jen 10 záznamů. Pokud tedy napíšeme do okna například slovo „Plzeň“, nabídka nebude dostatečná. Dotaz je pak třeba zúžit přidáním dalších znaků. Našeptávač nezohledňuje variantní názvy původců (např. německé názvy). Vylepšení tohoto filtru je předmětem dalšího vývoje.
+- **Tematická skupina** – filtrování podle tematického zařazení archivních souborů. Pořadí nabízených tematických skupin je podle aktuálně zobrazeného počtu výsledků pro danou skupinu.
+- **Pokročilé filtry** – možnost filtrování i podle dalších kritérií.
 
 Výsledky vyhledávání se zobrazují v&nbsp;pravém panelu. 
 
-![Ukázka filtru a panelu výsledků vyhledávání](./img/search-results.png)
+![Ukázka filtru a panelu výsledků vyhledávání](./img/search-results.jpg)
 
 ## Detail archivního souboru
 
@@ -37,9 +37,9 @@ Pokud je archivní soubor nebo jeho část opatřena databázovým popisem, zobr
 
 **:material-file-tree: Seznam archiválií v archivním souboru** &nbsp; **:material-magnify: Vyhledat archiválie v archivním souboru** 
 
-Pomocí těchto dlaždic lze přejít na databázový archivní popis tohoto konkrétního archivního souboru, blíže viz [:material-file-document-multiple: Archiválie](section-archdesc.md). 
+Pomocí těchto dlaždic lze přejít na databázový archivní popis tohoto konkrétního archivního souboru, blíže viz [:material-file-document-multiple: Archiválie](section-archdesc.md#zobrazeni-ve-stromove-strukture). 
 
-Pokud je k archivnímu souboru nebo jeho části vydána alespoň jedna schválená archivní pomůcka, zobrazí se pod nadpisem **Archivní pomůcka** jedna nebo více dlaždic. Po kliknutí na dlaždici se zobrazí detail archivní pomůcky a obvykle k&nbsp;prohlížení nebo ke stažení i její obsah – tiskový výstup ve formátu PDF nebo naskenované strojopisné stránky.
+Pokud je k archivnímu souboru nebo jeho části vydána alespoň jedna schválená archivní pomůcka, zobrazí se pod nadpisem **Archivní pomůcka** jedna nebo více dlaždic. Po kliknutí na dlaždici se zobrazí detail archivní pomůcky a obvykle i její obsah – tiskový výstup ve formátu PDF nebo naskenované strojopisné stránky.
 
 ![Ukázka záznamu archivního souboru](./img/fonds-detail.png)
 
@@ -54,7 +54,7 @@ Ty mohou být ve třech formách:
 
 ### Naskenované strojopisy
 
-Starší strojopisné pomůcky dostupné jako naskenované obrázky. Fulltextové vyhledávání zatím není k dispozici, některé pomůcky však na konci obsahují rejstřík.
+Starší strojopisné pomůcky jsou dostupné jako naskenované obrázky. Fulltextové vyhledávání zatím není k dispozici, některé pomůcky však na konci obsahují rejstřík.
 
 Po kliknutí na dlaždici pod nadpisem **Archivní pomůcka** se zobrazí detail archivní pomůcky včetně naskenovaných snímků. 
 
@@ -64,7 +64,7 @@ Po kliknutí na dlaždici pod nadpisem **Archivní pomůcka** se zobrazí detail
 
 ### Soubory ve formátu PDF
 
-Pomůcky vytvořené elektronicky v textovém editoru nebo databázovém systému. Lze je stahovat a fulltextově prohledávat.
+Pomůcky vytvořené elektronicky v textovém editoru nebo v databázovém systému lze stahovat a fulltextově prohledávat.
 
 Po kliknutí na dlaždici s názvem archivní pomůcky pod nadpisem **Archivní pomůcka** se zobrazí detail archivní pomůcky. 
 
@@ -85,7 +85,7 @@ Navíc je v detailu **archivního souboru** možné:
 
 * vyhledávat archiválie fulltextem a pomocí filtrů po kliknutí na dlaždici **:material-magnify: Vyhledat archiválie v archivním souboru**.
 
-Podrobněji viz [:material-file-document-multiple: Archiválie](section-archdesc.md).
+Podrobněji viz [:material-file-document-multiple: Archiválie](section-archdesc.md#zobrazeni-ve-stromove-strukture).
 
 ![Ukázka databázové pomůcky](./img/fonds-db.png)
 

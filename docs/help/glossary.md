@@ -4,7 +4,7 @@ title: Vysvětlivky
 ---
 # Vysvětlivky
 
-## Symboly jednotek popisu 
+## Symboly u jednotek popisu 
 
 Seznam ikon použitých ve výsledcích vyhledávání archivních souborů a archiválií.
 
@@ -60,6 +60,12 @@ Seznam ikon použitých ve výsledcích vyhledávání archivních souborů a ar
   <div class="label">část jednotlivosti</div>
 </div>
 
+<div class="icon-cell">
+  <img src="../img/pf.svg" class="icon-4em" alt="ikona digitalizát">
+  <div class="label">odkaz na digitalizovanou archiválii</div>
+</div>
+
+
 </div>
 
 ## Symboly pro třídy entit 
@@ -112,9 +118,9 @@ Význam symbolů ve výsledcích vyhledávání archiválií.
 | Ikona | Význam | Podrobnosti |
 |-------|-------|-------------|
 | <img src="../img/J_G.svg" class="icon-2em" alt="ikona místo"> | místo | přístupové body z třídy geografický objekt navázané na popis archiválie |
-| <img src="../img/J_S.svg" class="icon-2em" alt="ikona signatura"> | signatura | |
-| <img src="../img/J_IC.svg" class="icon-2em" alt="ikona identifikátor"> | identifikátor | referenční označení nebo inventární číslo |
-| <img src="../img/J_UC.svg" class="icon-2em" alt="ikona uložení"> | uložení | identifikátor (číslo) ukládací jednotky (ukládací číslo) |
+| <img src="../img/J_S.svg" class="icon-2em" alt="ikona signatura"> | signatura | označení přidělené původcem nebo při předchozím zpracování |
+| <img src="../img/J_IC.svg" class="icon-2em" alt="ikona identifikátor"> | identifikátor | referenční označení (ref. ozn.) nebo inventární číslo (inv. č.) |
+| <img src="../img/J_UC.svg" class="icon-2em" alt="ikona uložení"> | uložení | identifikátor (číslo) ukládací jednotky – ukládací číslo |
 | <img src="../img/J_I.svg" class="icon-2em" alt="ikona archiv"> | archiv | který má archiválii v péči |
 | <img src="../img/J_F.svg" class="icon-2em" alt="ikona archivní soubor"> | archivní soubor | do nějž je archiválie začleněna |
 | <img src="../img/J_C.svg" class="icon-2em" alt="ikona nadřazená úroveň"> | nadřazená úroveň | úroveň nadřazená záznamu, který byl vyhledán |
@@ -138,9 +144,10 @@ Seznam základních pojmů používaných v souvislosti s&nbsp;archivním popise
 | Číslo EL NAD | Číslo archivního souboru v systému PEvA. Každý archiv (včetně okresních archivů) má svoji vlastní číselnou řadu. |
 | Dokument | Písemná, obrazová, zvuková nebo jinak zaznamenaná informace, která byla vytvořena původcem nebo byla původci doručena. Viz [§ 2 písm. e) zákona č. 499/2004 Sb.](https://www.e-sbirka.cz/sb/2004/499). |
 | Entita | Konkrétní nebo abstraktní objekt popisovaný formou archivního autoritního záznamu za účelem tvorby přístupových bodů a rejstříků. Viz též [pravidla popisu entit](https://stands.nacr.cz/zp/06-autor-zazn.html). Viz [symboly pro třídy entit (ikony)](#symboly-pro-tridy-entit). |
-| Evidenční jednotka (EJ) | Základní jednotka pro počítání a vykazování množství archiválií. Ve starších archivních pomůckách se často uvádí v inventárních seznamech číslo evidenční jednotky (ev. j. č.), to odpovídá dnešnímu ukládacímu číslu. Viz též [pravidla zpracování archiválií](https://stands.nacr.cz/zp/02-arch-zprac.html#evidencni-jednotky). |
+| Evidenční jednotka (EJ, ev. j.) | Základní jednotka pro počítání a vykazování množství archiválií. Ve starších archivních pomůckách se často uvádí v inventárních seznamech číslo evidenční jednotky (ev. j. č.), to odpovídá dnešnímu ukládacímu číslu. Viz též [pravidla zpracování archiválií](https://stands.nacr.cz/zp/02-arch-zprac.html#evidencni-jednotky). |
 | ELZA | Software pro **EL**ektronické **Z**pracování **A**rchiválií, vyvinutý původně ve spolupráci archivů s Technologickou agenturou ČR za účelem implemetace Základních pravidel z roku 2015. Užíván většinou státních archivů. Vývoj a správu zrojového kódu open source softwaru ELZA zaštiťuje [Ministerstvo vnitra](https://mv.gov.cz/clanek/software-elza.aspx). |
 | EL NAD | Evidenční list Národního archivního dědictví. Informace o archviním souboru vedená v systému PEvA. |
+|<span class="term-with-icon">Inventární číslo (inv. č.)<img src="../img/J_IC.svg" class="icon-2em" alt="ikona identifikátor"></span> | Identifikátor položky v inventárním seznamu. Nově nahrazeno referenčním označením. Viz též [prvky popisu archiválií](https://stands.nacr.cz/zp/04-prvky-popisu.html#referencni-oznaceni-poradove-cislo-pro-manipulacni-seznam). |
 | Inventář | Základní archivní pomůcka s popisem na úrovni složek a jednotlivostí. Viz též [pravidla popisu archiválií](https://stands.nacr.cz/zp/03-popis-arch.html#inventar-dilci-inventar), [pravidla zpracování archiválií](https://stands.nacr.cz/zp/02-arch-zprac.html#archivni-pomucky). |
 |<span class="term-with-icon">Jednotlivost<img src="../img/archival-item.svg" class="icon-2_5em" alt="ikona jednotlivost"></span> | Jednotka popisu, jejíž fyzické dělení by vedlo k narušení integrity archiválie. Popisuje archiválie evidované prostřednictvím evidenčních jednotek. Může obsahovat části jednotlivosti.<br>Příklady: listina, úřední kniha, rukopis, podací protokol, index, elench, repertář, kartotéka, razítko, pečeť, mapa, atlas, technický výkres, grafický list, kresba, fotografie, fotoalbum, filmový pás, kinematografický záznam, gramofonová deska, zvukový záznam, tisk, pohlednice, plakát, cenný papír. Viz též [pravidla popisu archiválií](https://stands.nacr.cz/zp/03-popis-arch.html#jednotlivost). |
 | Jednotka popisu (JP) | Archiválie (nebo jejich část) či skupina archiválií, která je předmětem archivního popisu – např. archivní soubor, série, složka. Viz též [pravidla popisu archiválií](https://stands.nacr.cz/zp/03-popis-arch.html). |
@@ -153,10 +160,10 @@ Seznam základních pojmů používaných v souvislosti s&nbsp;archivním popise
 | Provenience | Vazba mezi původcem a archiváliemi (archivním fondem). Viz [pravidla zpracování archiválií](https://stands.nacr.cz/zp/02-arch-zprac.html#vymezeni-archivniho-souboru). |
 | Původce | Entita (korporace, rod nebo osoba), z jejíž činnosti (tvorba, správa, shromažďování) vznikla archiválie. Viz [§ 2 písm. d) zákona č. 499/2004 Sb.](https://www.e-sbirka.cz/sb/2004/499) a [pravidla zpracování archiválií](https://stands.nacr.cz/zp/02-arch-zprac.html#vymezeni-archivniho-souboru). |
 | Přístupový bod | Archivní autoritní záznam připojený k jednotce popisu. Údaje z přístupových bodů se používají pro vyhledávání, identifikaci a lokalizaci jednotek popisu a pro tvorbu rejstříkových hesel v tištěných archivních pomůckách. Viz [pravidla popisu entit](https://stands.nacr.cz/zp/06-autor-zazn.html#entity-a-archivni-autoritni-zaznamy). |
-| Referenční označení | Identifikátor umístění jednotky popisu v hierarchické struktuře archivního popisu. Nahrazuje dosavadní inventární a katalogová čísla. Viz též [prvky popisu archiválií](https://stands.nacr.cz/zp/04-prvky-popisu.html#referencni-oznaceni-poradove-cislo-pro-manipulacni-seznam). |
+|<span class="term-with-icon">Referenční označení<br>(ref. ozn.)<img src="../img/J_IC.svg" class="icon-2em" alt="ikona identifikátor"></span> | Identifikátor umístění jednotky popisu v hierarchické struktuře archivního popisu. Nahrazuje dosavadní inventární a katalogová čísla. Viz též [prvky popisu archiválií](https://stands.nacr.cz/zp/04-prvky-popisu.html#referencni-oznaceni-poradove-cislo-pro-manipulacni-seznam). |
 |<span class="term-with-icon">Série<img src="../img/archival-serie.svg" class="icon-2_5em" alt="ikona série"></span> | Jednotka popisu vyjadřující souvislosti mezi skupinami archiválií v rámci archivního souboru. Odpovídá nadpisu ve starších archivních pomůckách. Viz též [pravidla popisu archiválií](https://stands.nacr.cz/zp/03-popis-arch.html#serie).|
 |<span class="term-with-icon">Složka<img src="../img/archival-folder.svg" class="icon-2_5em" alt="ikona složka"></span> | Jednotka popisu pro množstevní evidenční jednotky (kartony, fascikly, digitální archivní jednotky) a soubory více jednotlivostí (např. fotografie), může obsahovat podsložky. Viz též [pravidla popisu archiválií](https://stands.nacr.cz/zp/03-popis-arch.html#slozka).|
-| Ukládací číslo | Jednoznačný identifikátor fyzického uložení jednotky popisu v rámci archivního souboru. Ve starších archivních pomůckách jsou obvykle v posledním sloupci v inventárním seznamu a jsou označené např. jako `číslo kartonu`, `číslo knihy`, `evidenční jednotka číslo`(`ev. j. č.`). Viz též [prvky popisu archiválií](https://stands.nacr.cz/zp/04-prvky-popisu.html#ukladaci-jednotka-cislo). |
+|<span class="term-with-icon">Ukládací číslo (uložení)<img src="../img/J_UC.svg" class="icon-2em" alt="ikona uložení"></span>| Jednoznačný identifikátor fyzického uložení jednotky popisu v rámci archivního souboru. Ve starších archivních pomůckách jsou obvykle v posledním sloupci v inventárním seznamu a jsou označené např. jako `číslo kartonu`, `číslo knihy`, `evidenční jednotka číslo`(`ev. j. č.`). Viz též [prvky popisu archiválií](https://stands.nacr.cz/zp/04-prvky-popisu.html#ukladaci-jednotka-cislo). |
 | Úrovně popisu | Archivní popis je víceúrovňový: archiv → archivní soubor → série → složka → jednotlivost → část jednotlivosti. Viz též [pravidla popisu archiválií](https://stands.nacr.cz/zp/03-popis-arch.html). |
 | Základní pravidla | Základní pravidla pro zpracování archiválií, [metodický pokyn](https://stands.nacr.cz/zp/) Ministerstva vnitra. |
 

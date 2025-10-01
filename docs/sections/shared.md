@@ -17,7 +17,7 @@ V pravé části se zobrazují výsledky vyhledávání. Maximální počet zobr
 
 Výsledky jsou řazeny podle relevance, nejprve záznamy, kde se hledaný text nachází v názvu, poté záznamy s výskytem v jiných polích. Jiné řazení zatím není možné.
 
-![Ukázka filtru a panelu výsledků vyhledávání](./img/search-results.png)
+![Ukázka filtru a výsledků vyhledávání](./img/search-results.jpg)
 
 ## Zobrazení záznamu
 
