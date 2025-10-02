@@ -6,7 +6,7 @@ Fulltext nerozlišuje velká a malá písmena a ignoruje diakritiku. Pokud chcem
 
 Vyhledávač neumí pracovat s různými koncovkami slov. Pokud zadáme `lyžařský`, nenajdou se záznamy obsahující výraz `lyžařské`. Vhodnější je text zkrátit, např. `lyzarsk` nebo `lyzar`.
 
-Pro víceslovné řetězce platí, že **první slovo musí být zadáno celé**, další slova lze zkrátit. Například dotaz `hasicska zbrojn` vyhledá záznamy o hasičských zbrojnicích, zatímco `hasic zbrojn` nenajde nic.
+Pro víceslovné řetězce platí, že **první slova musí být zadána celá** a pouze poslední slovo lze zkrátit. Například dotaz `hasicska zbrojn` vyhledá záznamy o hasičských zbrojnicích, zatímco `hasic zbrojn` nenajde nic.
 
 Platforma ARON se dále vyvíjí a v nejbližší době bude věnována zvýšená pozornost vyhledávání, což povede k výraznému zlepšení jeho schopností.
  
