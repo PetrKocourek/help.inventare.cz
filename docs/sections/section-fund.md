@@ -30,16 +30,20 @@ Výsledky vyhledávání se zobrazují v&nbsp;pravém panelu.
 
 Po kliknutí na vyhledaný záznam 
 
-![Postup](./img/fonds-result1.jpg)
+![Postup](./img/fonds-result1.png)
 
 se otevře detail archivního souboru s&nbsp;podrobnějšími údaji o&nbsp;archivním souboru.
-Pokud je archivní soubor nebo jeho část opatřena databázovým popisem, zobrazí se nahoře dlaždice: 
+Pokud je archivní soubor nebo jeho část opatřena databázovým archivním popisem, zobrazí se nahoře dlaždice: 
 
 **:material-file-tree: Seznam archiválií v archivním souboru** &nbsp; **:material-magnify: Vyhledat archiválie v archivním souboru** 
 
-Pomocí těchto dlaždic lze přejít na databázový archivní popis tohoto konkrétního archivního souboru, blíže viz [:material-file-document-multiple: Archiválie](section-archdesc.md#zobrazeni-ve-stromove-strukture). 
+Pomocí těchto dlaždic lze přejít na **databázový popis** tohoto konkrétního archivního souboru, blíže viz
 
-Pokud je k archivnímu souboru nebo jeho části vydána alespoň jedna schválená archivní pomůcka, zobrazí se pod nadpisem **Archivní pomůcka** jedna nebo více dlaždic. Po kliknutí na dlaždici se zobrazí detail archivní pomůcky a obvykle i její obsah – tiskový výstup ve formátu PDF nebo naskenované strojopisné stránky.
+* [:material-file-document-multiple: Archiválie – zobrazení ve stromové struktuře](section-archdesc.md#zobrazeni-ve-stromove-strukture), 
+
+* [:material-file-document-multiple: Archiválie – vyhledávání archiválií](section-archdesc.md#vyhledavani-archivalii).
+
+Pokud je k archivnímu souboru nebo jeho části vydána alespoň jedna schválená archivní pomůcka, zobrazí se pod nadpisem **Archivní pomůcka** jedna nebo více dlaždic. Po kliknutí na dlaždici se zobrazí detail archivní pomůcky a obvykle i její obsah – **tiskový výstup** archivní pomůcky ve formátu PDF nebo naskenované strojopisné stránky.
 
 ![Ukázka záznamu archivního souboru](./img/fonds-detail.png)
 
@@ -58,7 +62,7 @@ Starší strojopisné pomůcky jsou dostupné jako naskenované obrázky. Fullte
 
 Po kliknutí na dlaždici pod nadpisem **Archivní pomůcka** se zobrazí detail archivní pomůcky včetně naskenovaných snímků. 
 
-![Postup](./img/fonds-detail1.jpg)
+![Postup](./img/fonds-detail1.png)
 
 ![Ukázka naskenované pomůcky](./img/fonds-scan.jpg)
 
@@ -70,7 +74,7 @@ Po kliknutí na dlaždici s názvem archivní pomůcky pod nadpisem **Archivní 
 
 ![Postup](./img/fonds-detail2.png)
 
-V detailu archivní pomůcky se pod nadpisem **Přílohy** objeví dlaždice se souborem ke stažení. 
+V detailu archivní pomůcky se pod nadpisem **Přílohy** zobrazí dlaždice se souborem ke stažení. 
 
 ![Ukázka PDF pomůcky](./img/fonds-pdf.png)
 
@@ -81,11 +85,9 @@ je k&nbsp;dispozici tiskový výstup ke stažení ve formátu PDF nebo naskenova
 
 Navíc je v detailu **archivního souboru** možné:
 
-* procházet archivní soubor ve stromové struktuře po kliknutí na dlaždici **:material-file-tree: Seznam archiválií v archivním souboru**,
+* procházet archivní soubor ve stromové struktuře po kliknutí na dlaždici<br>**:material-file-tree: Seznam archiválií v archivním souboru**, viz [:material-file-document-multiple: Archiválie – zobrazení ve stromové struktuře](section-archdesc.md#zobrazeni-ve-stromove-strukture), 
 
-* vyhledávat archiválie fulltextem a pomocí filtrů po kliknutí na dlaždici **:material-magnify: Vyhledat archiválie v archivním souboru**.
-
-Podrobněji viz [:material-file-document-multiple: Archiválie](section-archdesc.md#zobrazeni-ve-stromove-strukture).
+* vyhledávat archiválie fulltextem a pomocí filtrů po kliknutí na dlaždici<br>**:material-magnify: Vyhledat archiválie v archivním souboru**, viz [:material-file-document-multiple: Archiválie – vyhledávání archiválií](section-archdesc.md#vyhledavani-archivalii).
 
 ![Ukázka databázové pomůcky](./img/fonds-db.png)
 

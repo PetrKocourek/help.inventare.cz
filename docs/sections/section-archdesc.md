@@ -29,7 +29,7 @@ V levém panelu lze vyhledávat pomocí fulltextu i filtrů:
 - **Digitální podoba** – vyhledá jen archiválie s odkazem na digitální reprodukce. Klikutím na symbol <img src="/help/img/pf.svg" class="icon-2_5em" alt="ikona digitalizát"> vpravo nebo na náhled snímku vpravo přejdete na digitalizovanou archiválii zveřejněnou na webu [Porta fontium](https://www.portafontium.eu).
 - **Archivní soubor** – omezí vyhledávání jen na vybraný archivní soubor. Do pole se zadává název archivního souboru, je nutné vybrat některý ze souborů nabízených v našeptávači. Tento filtr je též aktivován dlaždicí **:material-magnify: Vyhledat archiválie v archivním souboru** v detailu archivního souboru, viz [:material-sitemap: Archivní soubory](section-fund.md#detail-archivniho-souboru).
 - **Rejstřík** – filtr podle přístupových bodů, po zaškrtnutí druhu rejstříku je možné použít pole s našeptávačem, které se zobrazí dole. Napojování přístupových bodů je teprve v začátcích, takže filtr nenajde všechny relevantní záznamy, viz [:material-label: Přístupové body](section-entity.md).
-- **Pokročilé filtry** – Možnost vyhledávání i podle dalších kritérií. Filtry jsou předmětem dalšího vývoje, postupně se budou zdokonalovat.
+- **Pokročilé filtry** – možnost vyhledávání i podle dalších kritérií. Filtry jsou předmětem dalšího vývoje, postupně se budou zdokonalovat.
 
 ![Ukázka filtru](./img/search-archdesc.jpg)
 
