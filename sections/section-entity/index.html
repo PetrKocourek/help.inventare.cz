@@ -597,6 +597,21 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.63 5.84C17.27 5.33 16.67 5 16 5H5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h11c.67 0 1.27-.34 1.63-.85L22 12z"/></svg>
+  
+  <span class="md-ellipsis">
+    Přístupové body
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -610,6 +625,43 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Obsah">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Obsah
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#vyhledavani-pristupovych-bodu" class="md-nav__link">
+    <span class="md-ellipsis">
+      Vyhledávání přístupových bodů
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#zobrazeni-zaznamu-entit" class="md-nav__link">
+    <span class="md-ellipsis">
+      Zobrazení záznamů entit
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -989,7 +1041,60 @@
 
 
 <h1 id="sekce-pristupove-body">Sekce Přístupové body<a class="headerlink" href="#sekce-pristupove-body" title="Permanent link">&para;</a></h1>
-<p>Obsah bude doplněn.</p>
+<p>Přístupové body fungují jako jednotný rejstřík entit, které mají vztah k archiváliím. </p>
+<p>Archiváři vytvářejí archivní autoritní záznamy, které pak propojují s&nbsp;popisem archiválií, čímž vznikají přístupové body. Díky tomu bude možné dohledat všechny záznamy vztahující se k&nbsp;jedné osobě, organizaci, místu, události nebo pojmu.</p>
+<p>Většina záznamů archiválií dosud <strong>není přístupovými body opatřena</strong>, takže výsledky vyhledávání s&nbsp;pomocí přístupových bodů jsou neúplné. Systematické vytváření přístupových bodů je pro archivy velkým, ovšem časově velmi náročným, úkolem.</p>
+<p>Rozlišujeme sedm základních tříd entit:</p>
+<div class="icon-grid">
+
+<div class="icon-cell">
+  <img src="/help/img/AP_C.svg" class="icon-2_5em" alt="ikona korporace">
+  <div class="label">korporace</div>
+</div>
+
+<div class="icon-cell">
+  <img src="/help/img/AP_P.svg" class="icon-2_5em" alt="ikona osoba">
+  <div class="label">osoba / bytost</div>
+</div>
+
+<div class="icon-cell">
+  <img src="/help/img/AP_F.svg" class="icon-2_5em" alt="ikona rod">
+  <div class="label">rod / rodina</div>
+</div>
+
+<div class="icon-cell">
+  <img src="/help/img/AP_G.svg" class="icon-2_5em" alt="ikona geografický objekt">
+  <div class="label">geografický objekt</div>
+</div>
+
+<div class="icon-cell">
+  <img src="/help/img/AP_E.svg" class="icon-2_5em" alt="ikona událost">
+  <div class="label">událost</div>
+</div>
+
+<div class="icon-cell">
+  <img src="/help/img/AP_W.svg" class="icon-2_5em" alt="ikona dílo">
+  <div class="label">dílo / výtvor</div>
+</div>
+
+<div class="icon-cell">
+  <img src="/help/img/AP_T.svg" class="icon-2_5em" alt="ikona obecný pojem">
+  <div class="label">obecný pojem</div>
+</div>
+
+</div>
+
+<h2 id="vyhledavani-pristupovych-bodu">Vyhledávání přístupových bodů<a class="headerlink" href="#vyhledavani-pristupovych-bodu" title="Permanent link">&para;</a></h2>
+<p>Vyhledávat lze pomocí fulltextového pole nebo filtrů, lze je kombinovat:</p>
+<ul>
+<li><strong>Obecné vyhledávací pole</strong>  <code>Vyhledávání</code> – hledá fulltextově v&nbsp;názvech i v&nbsp;popisech entit, viz <a href="../../help/searching/">Jak na webu vyhledávat</a>.</li>
+<li><strong>Třída entity</strong> – výběr jedné ze sedmi základních tříd.</li>
+<li><strong>Podtřída entity</strong> – další zpřesnění vybraných tříd, podtřídy se ve filtru řadí podle počtu výskytů (počet se zobrazuje v závorce).</li>
+<li><strong>Pokročilé filtry</strong> – možnost vyhledávání i podle dalších kritérií. Filtry jsou předmětem dalšího vývoje, postupně se budou zdokonalovat.</li>
+</ul>
+<h2 id="zobrazeni-zaznamu-entit">Zobrazení záznamů entit<a class="headerlink" href="#zobrazeni-zaznamu-entit" title="Permanent link">&para;</a></h2>
+<p>Po kliknutí na nalezený záznam se otevře detail entity. V detailu je možné tlačítkem <strong>NAJÍT SOUVISEJÍCÍ</strong> zobrazit archiválie a archivní soubory, které jsou se záznamem propojeny. Jelikož většina archiválií dosud není přístupovými body opatřena, počet takto zobrazených archiválií bude neúplný.</p>
+<p><img alt="Ukázka detailu entity" src="../img/entity-detail.png" /></p>
 
 
 
