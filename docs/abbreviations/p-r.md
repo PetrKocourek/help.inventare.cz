@@ -46,16 +46,16 @@
 		<dd>pionýrská organizace</dd>
 <dt>PO</dt>
 		<dd>požární ochrana</dd>
-<dt>PO SSM</dt>
-		<dd>Pionýrská organizace Socialistického svazu mládeže</dd>
 <dt>PO ČSD</dt>
 		<dd>Provozní oddíl Československých státních drah</dd>
 <dt>PO ČSM</dt>
 		<dd>pionýrská organizace Československého svazu mládeže</dd>
-<dt>poh</dt>
-		<dd>pohlednice</dd>
+<dt>PO SSM</dt>
+		<dd>Pionýrská organizace Socialistického svazu mládeže</dd>
 <dt>poč. ot.</dt>
 		<dd>Počet otisků</dd>
+<dt>poh</dt>
+		<dd>pohlednice</dd>
 <dt>poř</dt>
 		<dd>pořadače</dd>
 <dt>poř. č.</dt>

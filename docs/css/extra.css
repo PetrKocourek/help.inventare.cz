@@ -1,4 +1,4 @@
-﻿/* Abbreviations definition list styling */
+﻿/* === Abbreviations definition list styling === */
 dl.abbr-list {
   display: grid;
   grid-template-columns: minmax(8ch, 18ch) 1fr;
@@ -12,7 +12,7 @@ dl.abbr-list dd {
   margin: 0 0 0.25rem 0;
 }
 
-/* Filter input */
+/* === Filter input === */
 #abbrev-filter {
   width: 100%;
   padding: .5rem .75rem;
@@ -21,36 +21,43 @@ dl.abbr-list dd {
   border-radius: .5rem;
 }
 
-.md-nav__link[href*="section-fund"] .md-ellipsis,
-.md-content a[href*="section-fund"] {
+/* === Sekce – barevné pouze hlavní položky === */
+
+/* Archivní soubory */
+.md-nav__list > .md-nav__item > .md-nav__link[href*="section-fund"] .md-ellipsis {
   color: rgb(80, 70, 160);
 }
 
-.md-nav__link[href*="section-archdesc"] .md-ellipsis,
-.md-content a[href*="section-archdesc"] {
+/* Archivní popis */
+.md-nav__list > .md-nav__item > .md-nav__link[href*="section-archdesc"] .md-ellipsis {
   color: rgb(80, 130, 170);
 }
 
-.md-nav__link[href*="section-entity"] .md-ellipsis,
-.md-content a[href*="section-entity"] {
+/* Entity */
+.md-nav__list > .md-nav__item > .md-nav__link[href*="section-entity"] .md-ellipsis {
   color: rgb(200, 140, 30);
 }
 
-.md-nav__link[href*="section-fund"]:hover .md-ellipsis,
-.md-content a[href*="section-fund"]:hover {
+/* Hover efekty pro hlavní sekce */
+.md-nav__list > .md-nav__item > .md-nav__link[href*="section-fund"]:hover .md-ellipsis {
   color: rgb(120, 110, 200);
 }
-
-.md-nav__link[href*="section-archdesc"]:hover .md-ellipsis,
-.md-content a[href*="section-archdesc"]:hover {
+.md-nav__list > .md-nav__item > .md-nav__link[href*="section-archdesc"]:hover .md-ellipsis {
   color: rgb(120, 170, 210);
 }
-
-.md-nav__link[href*="section-entity"]:hover .md-ellipsis,
-.md-content a[href*="section-entity"]:hover {
+.md-nav__list > .md-nav__item > .md-nav__link[href*="section-entity"]:hover .md-ellipsis {
   color: rgb(240, 180, 60);
 }
 
+/* Barevné sekce – výraznější vyblednutí */
+.md-nav__link--passed[href*="section-fund"] .md-ellipsis,
+.md-nav__link--passed[href*="section-archdesc"] .md-ellipsis,
+.md-nav__link--passed[href*="section-entity"] .md-ellipsis {
+  color: var(--md-default-fg-color--lightest);
+  opacity: 0.6;
+}
+
+/* === Icon grid styling === */
 .icon-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
@@ -58,125 +65,87 @@ dl.abbr-list dd {
   row-gap: 2rem;
   text-align: center;
 }
-
 .icon-cell img {
   display: block;
   margin: 0.3em auto 0.5em auto;
 }
-
 .icon-cell .label {
   margin-bottom: 0.1em;
 }
-
 .icon-cell .detail {
   font-size: 0.8em;
   line-height: 1;
   color: var(--md-default-fg-color--light); 
 }
 
+/* === Icon sizes === */
 .term-with-icon { 
   display: flex;
   justify-content: space-between;
   align-items: center; 
   gap: .5em; 
 }
-
 .term-with-icon img { 
   flex-shrink: 0; 
 }
+.icon-1em   { width: 1em; height: auto; vertical-align: middle; }
+.icon-1_5em { width: 1.5em; height: auto; vertical-align: middle; }
+.icon-2em   { width: 2em; height: auto; vertical-align: middle; }
+.icon-2_5em { width: 2.5em; height: auto; vertical-align: middle; }
+.icon-3em   { width: 3em; height: auto; vertical-align: middle; }
+.icon-3_5em { width: 3.5em; height: auto; vertical-align: middle; }
+.icon-4em   { width: 4em; height: auto; vertical-align: middle; }
 
-.icon-1em {
-  width: 1em;
-  height: auto;
-  vertical-align: middle;
-}
-
-.icon-1_5em {
-  width: 1.5em;
-  height: auto;
-  vertical-align: middle;
-}
-
-.icon-2em {
-  width: 2em;
-  height: auto;
-  vertical-align: middle;
-}
-
-.icon-2_5em {
-  width: 2.5em;
-  height: auto;
-  vertical-align: middle;
-}
-
-.icon-3em {
-  width: 3em;
-  height: auto;
-  vertical-align: middle;
-}
-
-.icon-3_5em {
-  width: 3.5em;
-  height: auto;
-  vertical-align: middle;
-}
-
-.icon-4em {
-  width: 4em;
-  height: auto;
-  vertical-align: middle;
-}
-
-/* Změna barvy záhlaví */
+/* === Změna barvy záhlaví === */
 .md-header {
   background-color: #29333D;
 }
 
-/* Barva vyhledávacího boxu */
+/* === Barva vyhledávacího boxu === */
 .md-search__form {
   background-color: #3D4D5C;
 }
 
-/* Ikona lupy ve vyhledávání */
+/* === Ikona lupy ve vyhledávání === */
 .md-search__icon {
   color: #FFFFFF; /* kontrastní bílá */
 }
 
-/* Hover efekt odkazů v headeru */
+/* === Hover efekt odkazů v headeru === */
 .md-header .md-nav__link:hover,
 .md-header .md-nav__link:focus {
   background-color: #3D4D5C;
 }
 
-/* Podtržení aktivní položky v headeru */
+/* === Podtržení aktivní položky v headeru === */
 .md-header .md-nav__item--active > .md-nav__link {
   border-bottom: 3px solid #4A5A6B;
 }
 
-/* Pozadí hlavního menu (tabs) */
+/* === Pozadí hlavního menu (tabs) === */
 .md-tabs {
   background-color: #29333D;
 }
 
-/* Barva odkazů v menu */
+/* === Barva odkazů v menu === */
 .md-tabs__link {
-  color: rgba(255, 255, 255, 0.8); /* světlejší bílá, aby nebyla tvrdá */
+  color: rgba(255, 255, 255, 0.8);
 }
 
-/* Hover v menu = zesvětlený text */
+/* Hover v menu */
 .md-tabs__link:hover,
 .md-tabs__link:focus {
-  color: #FFFFFF; /* čistě bílá */
-  background: none; /* žádné podbarvení */
+  color: #FFFFFF;
+  background: none;
 }
 
 /* Aktivní položka v menu */
 .md-tabs__link--active {
-  color: #FFFFFF; /* aktivní vždy bílá */
-  border-bottom: 3px solid #4A5A6B; /* podtržení, nebo můžeš dát accent */
+  color: #FFFFFF;
+  border-bottom: 3px solid #4A5A6B;
 }
 
+/* === Odkazy v textu === */
 :root {
-  --md-typeset-a-color: #3A5DA0; /* běžné odkazy */
+  --md-typeset-a-color: #3A5DA0;
 }
-

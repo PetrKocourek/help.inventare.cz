@@ -84,6 +84,7 @@ nav:
       - Archiválie: sections/section-archdesc.md
       - Přístupové body: sections/section-entity.md
     - Vysvětlivky a pojmy: help/glossary.md
+    - Zkratky: abbreviations/index.md
   - Zkratky:
     - 0–9: abbreviations/index.md
     - A, B, C, Č: abbreviations/a-c.md
@@ -95,6 +96,7 @@ nav:
     - S, Š: abbreviations/s.md
     - T, U, V: abbreviations/t-v.md
     - Y, Z, Ž: abbreviations/y-z.md
+    - Nápověda: index.md
   - ↻ ZPĚT na inventáře.cz: https://www.inventare.cz
 
 extra_css:
