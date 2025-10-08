@@ -4,16 +4,16 @@ title: Archivní soubory
 ---
 # Sekce Archivní soubory
 
-V sekci **:material-sitemap: Archivní soubory** lze vyhledávat a prohlížet popisy všech všech více než 17 000 archivních fondů a sbírek uložených ve Státním oblastním archivu v Plzni včetně státních okresních archivů z Plzeňského a Karlovarského kraje. Vyhledávání zahrnuje základní údaje o archivních souborech i o připojených archivních pomůckách.
+V sekci **:material-sitemap: Archivní soubory** lze vyhledávat a prohlížet popisy všech více než 17&nbsp;000 archivních fondů a sbírek uložených ve Státním oblastním archivu v Plzni včetně státních okresních archivů z Plzeňského a Karlovarského kraje. Vyhledávání zahrnuje základní údaje o archivních souborech i o připojených archivních pomůckách.
 
 ## Vyhledávání archivních souborů
 
 V levém panelu můžete kombinovat fulltextové vyhledávání a filtry:
 
-- **Obecné vyhledávací pole** `Vyhledávání` – fulltextové vyhledávání v informacích o archivních souborech a o archivních pomůckách – viz [Jak na webu vyhledávat](../help/searching.md). Fulltextové vyhledávání zde **neprohledává obsah pomůcek**, tedy ani seznam archiválií, toho lze docílit hromadně jen v&nbsp;sekci [:material-file-document-multiple: Archiválie](section-archdesc.md) nebo v&nbsp;jednotlivých archivních pomůckách – podrobněji v kapitole [Archivní pomůcky](#archivni-pomucky).
+- **Obecné vyhledávací pole** `Vyhledávání` – fulltextové vyhledávání v informacích o archivních souborech a o archivních pomůckách – viz [Jak na webu vyhledávat](../help/search.md). Fulltextové vyhledávání zde **neprohledává obsah pomůcek**, tedy ani seznam archiválií. Toho lze docílit hromadně jen v&nbsp;sekci [:material-file-document-multiple: Archiválie](section-archdesc.md) nebo v&nbsp;jednotlivých archivních pomůckách – podrobněji v kapitole [Archivní pomůcky](#archivni-pomucky).
 - **Název archivního souboru** – vyhledává v názvech, značkách a číslech archivních souborů (např. „Velkostatek Žinkovy“, značka „Vs Žinkovy“, číslo „20143“).
 - **Datace vzniku** – pokud zúžíme časový rozsah, zobrazí se jen ty archivní soubory, které obsahují alespoň jednu archiválii spadající do uvedeného rozsahu.
-- **Místo vzniku** – obvykle sídlo původce, případně více míst, pokud původce sídlo měnil.
+- **Místo vzniku** – obvykle sídlo původce, případně více míst, pokud původce sídlo měnil nebo bylo více původců s různými sídly.
 - **Archivní popis** – zobrazí jen soubory s databázovým popisem – viz [Databázový archivní popis](#databazovy-archivni-popis).
 - **Pomůcka** – zobrazí jen soubory s archivními pomůckami (téměř všechny jsou na webu dostupné, buď databázově, nebo v PDF, nebo naskenované).
 - **Instituce** – filtrování podle archivu, který má archivní soubor v péči.

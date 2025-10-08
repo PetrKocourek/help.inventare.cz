@@ -31,6 +31,7 @@
     });
   }
 
+
   // Re-attach filter when MkDocs Material navigates to a new page
   function initWhenReady() {
     setupFilter();

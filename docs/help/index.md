@@ -1,21 +1,17 @@
 ﻿---
 icon: material/help-circle
-title: Nápověda – rozcestník
+title: Nápověda
 ---
-# :material-swap-horizontal: Nápověda – rozcestník
+# [:material-swap-horizontal: Nápověda – rozcestník](/help)
 
-**[Úvod](../index.md)**: [O&nbsp;webu inventare.cz](../index.md#o-webu-inventarecz-archivni-popis), [O&nbsp;webu Porta fontium – digitalizované archiválie](../index.md#o-webu-porta-fontium-digitalizovane-archivalie), [O&nbsp;archivu](../index.md#o-archivu), [O&nbsp;nápovědě](../index.md#o-napovede)
+* **[Úvod](/help/about)**: [O webu inventare.cz](/help/about#o-webu-inventarecz-archivni-popis) – [O webu Porta fontium – digitalizované archiválie](/help/about#o-webu-porta-fontium-digitalizovane-archivalie), [O archivu](/help/about#o-archivu), [O nápovědě](/help/about#o-napovede)
 
-**[:material-help-circle: Nápověda](index.md)** – rozcestník
+* **[Jak na webu vyhledávat](/help/search)**: fulltextové vyhledávání, filtrování a řazení výsledků, hledání podle přístupových bodů
 
-* **[Jak na webu vyhledávat](searching.md)**: fulltextové vyhledávání, filtrování a řazení výsledků, hledání podle přístupových bodů
+* **[Úvodní strana webu](/help/home)**: horní lišta, obecné vyhledávací pole, oddíly Mohlo by vás zajímat a Porta fontium
 
-* **[Úvodní strana webu](homepage.md)**: horní lišta, obecné vyhledávací pole, oddíly Mohlo by vás zajímat a Porta fontium
+* **[Sekce](/sections/common)**: [:material-sitemap: Archivní soubory](/sections/section-fund) (fondy a sbírky) · [:material-file-document-multiple: Archiválie](/sections/section-archdesc) (jednotky popisu) · [:material-label: Přístupové body](/sections/section-entity) (rejstřík)  
 
-* **[Sekce](../sections/shared.md)**: [:material-sitemap: Archivní soubory](../sections/section-fund.md) (fondy a sbírky) · [:material-file-document-multiple: Archiválie](../sections/section-archdesc.md) (jednotky popisu) · [:material-label: Přístupové body](../sections/section-entity.md) (rejstřík)  
+* [:material-book-information-variant: Vysvětlivky a pojmy](/help/glossary/): přehled hlavních pojmů a významu ikon
 
-* [:material-book-information-variant: Vysvětlivky](glossary.md): přehled hlavních pojmů a významu ikon
-
-**[:material-order-alphabetical-ascending: Zkratky](../abbreviations/index.md)**: seznam zkratek, které se vyskytují v&nbsp;archivním popisu (viz sekce [Archiválie](../sections/section-archdesc.md)) a v&nbsp;archivních pomůckách (v&nbsp;inventářích)
-
-
+**[:material-order-alphabetical-ascending: Zkratky](/abbreviations)**: seznam zkratek, které se vyskytují v&nbsp;archivním popisu (viz sekce [Archiválie](/sections/section-archdesc)) a v&nbsp;archivních pomůckách (v&nbsp;inventářích)

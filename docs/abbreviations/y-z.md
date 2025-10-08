@@ -1,119 +1,119 @@
-﻿# Zkratky Y Z, Ž
+# Zkratky Y Z, Ž
 
 --8<-- "groups.md"
 --8<-- "filter.md"
 
 <dl class="abbr-list">
 <dt>Y</dt>
-<dd>kartotéky</dd>
+		<dd>kartotéky</dd>
 <dt>YMCA</dt>
-<dd>Křesťanské sdružení mladých mužů</dd>
+		<dd>Křesťanské sdružení mladých mužů</dd>
 <dt>YWCA</dt>
-<dd>Křesťanské sdružení mladých žen</dd>
+		<dd>Křesťanské sdružení mladých žen</dd>
 <dt>Z</dt>
-<dd>zvukové záznamy</dd>
+		<dd>zvukové záznamy</dd>
 <dt>z. z. m.</dt>
-<dd>moravský zemský zákoník</dd>
+		<dd>moravský zemský zákoník</dd>
 <dt>z. z. s.</dt>
-<dd>slezský zemský zákoník</dd>
+		<dd>slezský zemský zákoník</dd>
 <dt>z. z. č.</dt>
-<dd>český zemský zákoník</dd>
+		<dd>český zemský zákoník</dd>
 <dt>ZC</dt>
-<dd>Západočeské cihelny</dd>
+		<dd>Západočeské cihelny</dd>
 <dt>ZDP</dt>
-<dd>Západočeský dřevařský průmysl</dd>
+		<dd>Západočeský dřevařský průmysl</dd>
 <dt>ZDZ</dt>
-<dd>Západočeské drůbežářské závody</dd>
+		<dd>Západočeské drůbežářské závody</dd>
 <dt>ZDZ</dt>
-<dd>Západočeský dřevařský závod</dd>
+		<dd>Západočeský dřevařský závod</dd>
 <dt>ZDŠ</dt>
-<dd>základní devítiletá škola</dd>
+		<dd>základní devítiletá škola</dd>
 <dt>ZEÚMS</dt>
-<dd>zvyšování ekonomické účinnosti mzdové soustavy</dd>
+		<dd>zvyšování ekonomické účinnosti mzdové soustavy</dd>
 <dt>ZJ</dt>
-<dd>závodní jídelna</dd>
+		<dd>závodní jídelna</dd>
 <dt>ZKLK</dt>
-<dd>závodní komise lidové kontroly</dd>
+		<dd>závodní komise lidové kontroly</dd>
 <dt>ZKNV</dt>
-<dd>Západočeský krajský národní výbor</dd>
+		<dd>Západočeský krajský národní výbor</dd>
 <dt>ZKV</dt>
-<dd>Západočeský krajský výbor</dd>
+		<dd>Západočeský krajský výbor</dd>
 <dt>ZKZ</dt>
-<dd>Západočeské keramické závody</dd>
+		<dd>Západočeské keramické závody</dd>
 <dt>ZKŠ</dt>
-<dd>Západočeské kamenolomy a štěrkopísky</dd>
+		<dd>Západočeské kamenolomy a štěrkopísky</dd>
 <dt>zl.</dt>
-<dd>Zlatý</dd>
+		<dd>Zlatý</dd>
 <dt>ZLM</dt>
-<dd>závodní Lidové milice</dd>
+		<dd>závodní Lidové milice</dd>
 <dt>ZN Plzeň</dt>
-<dd>Západočeské nakladatelství Plzeň</dd>
+		<dd>Západočeské nakladatelství Plzeň</dd>
 <dt>ZNV</dt>
-<dd>zemský národní výbor</dd>
+		<dd>zemský národní výbor</dd>
 <dt>ZNZP</dt>
-<dd>Zemědělský nákupní a zásobovací podnik</dd>
+		<dd>Zemědělský nákupní a zásobovací podnik</dd>
 <dt>ZO</dt>
-<dd>základní organizace</dd>
+		<dd>základní organizace</dd>
 <dt>ZO KSČ</dt>
-<dd>základní (závodní) organizace Komunistické strany Československa</dd>
+		<dd>základní (závodní) organizace Komunistické strany Československa</dd>
 <dt>ZO SSM</dt>
-<dd>základní organizace Socialistického svazu mládeže</dd>
+		<dd>základní organizace Socialistického svazu mládeže</dd>
 <dt>ZOO</dt>
-<dd>zoologická zahrada</dd>
+		<dd>zoologická zahrada</dd>
 <dt>ZOU</dt>
-<dd>zemědělské odborné učiliště</dd>
+		<dd>zemědělské odborné učiliště</dd>
 <dt>ZP</dt>
-<dd>Základní pravidla pro zpracování archiválií</dd>
+		<dd>Základní pravidla pro zpracování archiválií</dd>
 <dt>ZPF</dt>
-<dd>zemědělský půdní fond</dd>
+		<dd>zemědělský půdní fond</dd>
 <dt>ZPS</dt>
-<dd>změněná pracovní schopnost</dd>
+		<dd>změněná pracovní schopnost</dd>
 <dt>zpč.</dt>
-<dd>západočeský</dd>
+		<dd>západočeský</dd>
 <dt>ZR</dt>
-<dd>závodní rada</dd>
+		<dd>závodní rada</dd>
 <dt>ZRTV</dt>
-<dd>základní a rekreační tělovýchova</dd>
+		<dd>základní a rekreační tělovýchova</dd>
 <dt>ZS</dt>
-<dd>zdravotní středisko</dd>
+		<dd>zdravotní středisko</dd>
 <dt>ZSP</dt>
-<dd>Zemědělský stavební podnik</dd>
+		<dd>Zemědělský stavební podnik</dd>
 <dt>ZTI</dt>
-<dd>zdravotně technická instalace</dd>
+		<dd>zdravotně technická instalace</dd>
 <dt>ZTV</dt>
-<dd>základní tělesná výchova</dd>
+		<dd>základní tělesná výchova</dd>
 <dt>ZUD</dt>
-<dd>Západočeské uranové doly</dd>
+		<dd>Západočeské uranové doly</dd>
 <dt>ZUŠ</dt>
-<dd>základní umělecká škola</dd>
+		<dd>základní umělecká škola</dd>
 <dt>ZV</dt>
-<dd>závodní výbor</dd>
+		<dd>závodní výbor</dd>
 <dt>ZVAK</dt>
-<dd>Západočeské vodovody a kanalizace</dd>
+		<dd>Západočeské vodovody a kanalizace</dd>
 <dt>ZVIL</dt>
-<dd>Závody Vladimíra Iljiče Lenina (dobový název plzeňského podniku Škoda)</dd>
+		<dd>Závody Vladimíra Iljiče Lenina (dobový název plzeňského podniku Škoda)</dd>
 <dt>zza</dt>
-<dd>zvukové záznamy v analogové i digitální podobě</dd>
+		<dd>zvukové záznamy v analogové i digitální podobě</dd>
 <dt>ZZN</dt>
-<dd>Zemědělské zásobování a nákup</dd>
+		<dd>Zemědělské zásobování a nákup</dd>
 <dt>ZÚNZ</dt>
-<dd>závodní ústav národního zdraví</dd>
+		<dd>závodní ústav národního zdraví</dd>
 <dt>ZČE</dt>
-<dd>Západočeské elektrárny</dd>
+		<dd>Západočeské elektrárny</dd>
 <dt>ZČP</dt>
-<dd>Západočeské plynárny</dd>
+		<dd>Západočeské plynárny</dd>
 <dt>ZČSL</dt>
-<dd>Západočeské státní lesy</dd>
+		<dd>Západočeské státní lesy</dd>
 <dt>ZčŘS (ZŘS)</dt>
-<dd>Západočeské ředitelství spojů</dd>
+		<dd>Západočeské ředitelství spojů</dd>
 <dt>ZŠ</dt>
-<dd>základní škola</dd>
+		<dd>základní škola</dd>
 <dt>ZŠI, ZIŠ</dt>
-<dd>zvláštní škola internátní, zvláštní internátní škola</dd>
+		<dd>zvláštní škola internátní, zvláštní internátní škola</dd>
 <dt>ZŠR</dt>
-<dd>zemská školní rada</dd>
+		<dd>zemská školní rada</dd>
 <dt>ŽBC</dt>
-<dd>Železárny Bílá Cerkev</dd>
+		<dd>Železárny Bílá Cerkev</dd>
 <dt>ŽV</dt>
-<dd>živočišná výroba</dd>
+		<dd>živočišná výroba</dd>
 </dl>
