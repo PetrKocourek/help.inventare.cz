@@ -3,13 +3,17 @@
 --8<-- "groups.md"
 --8<-- "filter.md"
 
+
 <dl class="abbr-list">
+
 <dt>a. s. (a. spol.)</dt>
 		<dd>akciová společnost</dd>
-<dt>ACHP</dt>
-		<dd>Agrochemický podnik</dd>
+<dt>AČ</dt>
+		<dd>Archivní časopis</dd>
 <dt>AHMP</dt>
 		<dd>Archiv Hlavního města Prahy</dd>
+<dt>ACHP</dt>
+		<dd>Agrochemický podnik</dd>
 <dt>AIDS</dt>
 		<dd>Acquired Immune Deficiency Syndrome (syndrom získaného selhání imunity)</dd>
 <dt>AIS NV</dt>
@@ -22,6 +26,8 @@
 		<dd>akce na zvelebení obcí z vlastních zdrojů</dd>
 <dt>Akce D</dt>
 		<dd>akce demolic opuštěných budov v pohraničním pásmu</dd>
+<dt>Akce J</dt>
+		<dd>přesun německých pracovních sil do jáchymovských dolů</dd>
 <dt>akce T</dt>
 		<dd>svépomocná akce výstavby tělovýchovných zařízení</dd>
 <dt>akce U</dt>
@@ -52,8 +58,6 @@
 		<dd>akční výbor Národní fronty</dd>
 <dt>AZNP</dt>
 		<dd>automobilové závody, národní podnik</dd>
-<dt>AČ</dt>
-		<dd>Archivní časopis</dd>
 <dt>B J (b. j.)</dt>
 		<dd>bytová jednotka</dd>
 <dt>bal</dt>
@@ -74,6 +78,8 @@
 		<dd>bezpečnost a ochrana zdraví při práci</dd>
 <dt>BSP</dt>
 		<dd>brigáda socialistické práce</dd>
+<dt>C</dt>
+		<dd>fascikl</dd>
 <dt>c. k.</dt>
 		<dd>císařsko-královský</dd>
 <dt>CAN</dt>
@@ -88,16 +94,18 @@
 		<dd>Celostátní spartakiáda</dd>
 <dt>CSÚ</dt>
 		<dd>civilně správní úsek</dd>
+<dt>CŠV</dt>
+		<dd>celoškolský výbor</dd>
+<dt>CÚV</dt>
+		<dd>celoútvarový výbor/celoústavní výbor</dd>
 <dt>CVP</dt>
 		<dd>celoroční výrobní plán</dd>
 <dt>CZO</dt>
 		<dd>celozávodní organizace</dd>
 <dt>CZV</dt>
 		<dd>celozávodní výbor</dd>
-<dt>CÚV</dt>
-		<dd>celoútvarový výbor/celoústavní výbor</dd>
-<dt>CŠV</dt>
-		<dd>celoškolský výbor</dd>
+<dt>ČČK</dt>
+		<dd>Český Červený kříž</dd>
 <dt>ČESMAD</dt>
 		<dd>Československé sdružení mezinárodních automobilových dopravců</dd>
 <dt>ČFVU</dt>
@@ -138,6 +146,8 @@
 		<dd>Československé automobilové opravny</dd>
 <dt>ČSBD</dt>
 		<dd>Český svaz bytových družstev</dd>
+<dt>ČSČK</dt>
+		<dd>Československý Červený kříž</dd>
 <dt>ČSD</dt>
 		<dd>Československé státní dráhy</dd>
 <dt>ČSFR</dt>
@@ -184,14 +194,10 @@
 		<dd>Český svaz výrobních družstev</dd>
 <dt>ČSVTS</dt>
 		<dd>Československá vědecko-technická společnost</dd>
-<dt>ČSČK</dt>
-		<dd>Československý Červený kříž</dd>
 <dt>ČSŽ</dt>
 		<dd>Český svaz žen</dd>
 <dt>ČTO</dt>
 		<dd>Česká tělovýchovná organizace</dd>
 <dt>ČÚV</dt>
 		<dd>Český ústřední výbor</dd>
-<dt>ČČK</dt>
-		<dd>Český Červený kříž</dd>
 </dl>

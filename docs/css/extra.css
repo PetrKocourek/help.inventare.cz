@@ -24,16 +24,19 @@ dl.abbr-list dd {
 /* === Sekce – barevné pouze hlavní položky === */
 
 /* Archivní soubory */
+.md-content a[href*="section-fund"], 
 .md-nav__list > .md-nav__item > .md-nav__link[href*="section-fund"] .md-ellipsis {
   color: rgb(80, 70, 160);
 }
 
 /* Archivní popis */
+.md-content a[href*="section-archdesc"], 
 .md-nav__list > .md-nav__item > .md-nav__link[href*="section-archdesc"] .md-ellipsis {
   color: rgb(80, 130, 170);
 }
 
 /* Entity */
+.md-content a[href*="section-entity"], 
 .md-nav__list > .md-nav__item > .md-nav__link[href*="section-entity"] .md-ellipsis {
   color: rgb(200, 140, 30);
 }

@@ -3,11 +3,15 @@
 --8<-- "groups.md"
 --8<-- "filter.md"
 
+
 <dl class="abbr-list">
+
 <dt>D</dt>
 		<dd>digitální datasety</dd>
 <dt>daj</dt>
 		<dd>digitální archivní jednotka</dd>
+<dt>DČSP</dt>
+		<dd>dny československo-sovětského přátelství</dd>
 <dt>DDM</dt>
 		<dd>dům dětí a mládeže</dd>
 <dt>DDÚ</dt>
@@ -52,8 +56,6 @@
 		<dd>digitální datasety (datové balíčky)</dd>
 <dt>DVÚ</dt>
 		<dd>dětský výchovný ústav</dd>
-<dt>DČSP</dt>
-		<dd>dny československo-sovětského přátelství</dd>
 <dt>ej. (e. j.)</dt>
 		<dd>evidenční jednotka</dd>
 <dt>EK</dt>
@@ -108,6 +110,8 @@
 		<dd>fotografické desky</dd>
 <dt>fsn</dt>
 		<dd>fotografie na papírové podložce</dd>
+<dt>FŠ</dt>
+		<dd>farní škola</dd>
 <dt>fva</dt>
 		<dd>fonografické válečky</dd>
 <dt>gd</dt>

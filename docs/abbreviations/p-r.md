@@ -3,7 +3,9 @@
 --8<-- "groups.md"
 --8<-- "filter.md"
 
+
 <dl class="abbr-list">
+
 <dt>p., pag.</dt>
 		<dd>pagina</dd>
 <dt>PAM</dt>
@@ -14,6 +16,8 @@
 		<dd>požární bezpečnost</dd>
 <dt>PBH</dt>
 		<dd>podnik bytového hospodářství</dd>
+<dt>PČP</dt>
+		<dd>Přádelny česané příze</dd>
 <dt>pec</dt>
 		<dd>pečetidla</dd>
 <dt>pfp</dt>
@@ -72,6 +76,10 @@
 		<dd>podací protokoly/deníky</dd>
 <dt>prac/</dt>
 		<dd>pracovní (signatura spisového plánu)</dd>
+<dt>PŘ</dt>
+		<dd>podnikové ředitelství</dd>
+<dt>přír.</dt>
+		<dd>přírůstek</dd>
 <dt>PS</dt>
 		<dd>Pohraniční stráž</dd>
 <dt>PS</dt>
@@ -84,6 +92,12 @@
 		<dd>pomocné stavební práce</dd>
 <dt>PT</dt>
 		<dd>přísně tajné</dd>
+<dt>PÚ</dt>
+		<dd>projektový úkol</dd>
+<dt>PÚV</dt>
+		<dd>předsednictvo ústředního výboru</dd>
+<dt>PÚV KSČ</dt>
+		<dd>předsednictvo Ústředního výboru Komunistické strany Československa</dd>
 <dt>PV</dt>
 		<dd>podnikový výbor</dd>
 <dt>PV</dt>
@@ -92,24 +106,14 @@
 		<dd>presidium zemské správy politické</dd>
 <dt>PZÚ</dt>
 		<dd>presidium zemského úřadu v Praze</dd>
-<dt>PÚ</dt>
-		<dd>projektový úkol</dd>
-<dt>PÚV</dt>
-		<dd>předsednictvo ústředního výboru</dd>
-<dt>PÚV KSČ</dt>
-		<dd>předsednictvo Ústředního výboru Komunistické strany Československa</dd>
-<dt>PČP</dt>
-		<dd>Přádelny česané příze</dd>
-<dt>PŘ</dt>
-		<dd>podnikové ředitelství</dd>
-<dt>přír.</dt>
-		<dd>přírůstek</dd>
 <dt>R</dt>
 		<dd>registraturní pomůcky</dd>
 <dt>RaJ</dt>
 		<dd>Restaurace a jídelny</dd>
 <dt>raz</dt>
 		<dd>razítka</dd>
+<dt>RČS</dt>
+		<dd>Republika Československá</dd>
 <dt>RD</dt>
 		<dd>Rudné doly</dd>
 <dt>RD</dt>
@@ -142,18 +146,16 @@
 		<dd>rejstřík podstat</dd>
 <dt>RPMS</dt>
 		<dd>racionalizace práce a mzdových soustav</dd>
-<dt>RSV</dt>
-		<dd>Rok svazové výchovy</dd>
 <dt>RSŠ</dt>
 		<dd>Rok stranického školení</dd>
+<dt>RSV</dt>
+		<dd>Rok svazové výchovy</dd>
 <dt>RTG</dt>
 		<dd>rentgen</dd>
 <dt>RV</dt>
 		<dd>revírní výbor</dd>
 <dt>RVHP</dt>
 		<dd>Rada vzájemné hospodářské pomoci</dd>
-<dt>RČS</dt>
-		<dd>Republika Československá</dd>
 <dt>ř. z.</dt>
 		<dd>říšský zákoník</dd>
 <dt>ŘASA</dt>

@@ -3,7 +3,9 @@
 --8<-- "groups.md"
 --8<-- "filter.md"
 
+
 <dl class="abbr-list">
+
 <dt>s</dt>
 		<dd>soudruh/soudružka</dd>
 <dt>s. d.</dt>
@@ -18,14 +20,16 @@
 		<dd>Socialistická akademie</dd>
 <dt>SAP</dt>
 		<dd>Sborník archivních prací</dd>
+<dt>SBČS</dt>
+		<dd>Státní banka československá</dd>
 <dt>SBD</dt>
 		<dd>stavební a bytové družstvo</dd>
 <dt>SBDO</dt>
 		<dd>Svaz bytových družstev občanů</dd>
-<dt>SBČS</dt>
-		<dd>Státní banka československá</dd>
-<dt>SChPH</dt>
-		<dd>Spolek chovatelů poštovních holubů</dd>
+<dt>SČM</dt>
+		<dd>Svaz české mládeže</dd>
+<dt>SČSP</dt>
+		<dd>Svaz československo-sovětského přátelství</dd>
 <dt>SD</dt>
 		<dd>spotřební družstvo</dd>
 <dt>SD</dt>
@@ -34,16 +38,18 @@
 		<dd>Sudetendeutsche Partei (Sudetoněmecká strana)</dd>
 <dt>SDR</dt>
 		<dd>Svaz družstevních rolníků</dd>
-<dt>SEVT</dt>
-		<dd>Statistické a evidenční vydavatelství tiskopisů</dd>
 <dt>SEŠ</dt>
 		<dd>střední ekonomická škola</dd>
+<dt>SEVT</dt>
+		<dd>Statistické a evidenční vydavatelství tiskopisů</dd>
 <dt>sfi</dt>
 		<dd>svitkové filmy</dd>
 <dt>SHD</dt>
 		<dd>Severočeské hnědouhelné doly</dd>
 <dt>SHM</dt>
 		<dd>sportovní hry mládeže</dd>
+<dt>SChPH</dt>
+		<dd>Spolek chovatelů poštovních holubů</dd>
 <dt>sign.</dt>
 		<dd>signatura</dd>
 <dt>SIÚ</dt>
@@ -58,6 +64,8 @@
 		<dd>slaboproudý</dd>
 <dt>SMV</dt>
 		<dd>správa ministerstva vnitra</dd>
+<dt>SMV</dt>
+		<dd>společný místní výbor</dd>
 <dt>SNB</dt>
 		<dd>Sbor národní bezpečnosti</dd>
 <dt>SNP</dt>
@@ -72,12 +80,12 @@
 		<dd>státní okresní archiv</dd>
 <dt>SOS</dt>
 		<dd>Stráž obrany státu</dd>
+<dt>SOŠ</dt>
+		<dd>střední odborná škola</dd>
 <dt>SOU</dt>
 		<dd>střední odborné učiliště</dd>
 <dt>soutěž „ZZ"</dt>
 		<dd>Soutěž základních znalostí odboráře</dd>
-<dt>SOŠ</dt>
-		<dd>střední odborná škola</dd>
 <dt>sp.</dt>
 		<dd>spisový</dd>
 <dt>SPB</dt>
@@ -88,10 +96,10 @@
 		<dd>sbor pro občanské záležitosti</dd>
 <dt>SPS</dt>
 		<dd>státní plemenářská stanice</dd>
-<dt>SPZ</dt>
-		<dd>státní pracovní zálohy</dd>
 <dt>SPŠ</dt>
 		<dd>střední průmyslová škola</dd>
+<dt>SPZ</dt>
+		<dd>státní pracovní zálohy</dd>
 <dt>SRN</dt>
 		<dd>Spolková republika Německo</dd>
 <dt>SRPŠ</dt>
@@ -136,10 +144,10 @@
 		<dd>sekretariát ústředního výboru</dd>
 <dt>SÚV KSČ</dt>
 		<dd>sekretariát Ústředního výboru Komunistické strany Československa</dd>
-<dt>sv.</dt>
-		<dd>svazek</dd>
 <dt>SV</dt>
 		<dd>stranický výbor</dd>
+<dt>sv.</dt>
+		<dd>svazek</dd>
 <dt>SVA</dt>
 		<dd>Státní výrobna autodílů</dd>
 <dt>Svazarm</dt>
@@ -160,10 +168,6 @@
 		<dd>střední zdravotnická škola</dd>
 <dt>SZTŠ</dt>
 		<dd>střední zemědělsko-technická škola</dd>
-<dt>SČM</dt>
-		<dd>Svaz české mládeže</dd>
-<dt>SČSP</dt>
-		<dd>Svaz československo-sovětského přátelství</dd>
 <dt>škol/</dt>
 		<dd>školství (signatura spisového plánu)</dd>
 <dt>ŠMVZP</dt>
