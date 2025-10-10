@@ -66,10 +66,10 @@
 		<dd>koncernový podnik</dd>
 <dt>k. s.</dt>
 		<dd>koňská síla</dd>
-<dt>k. ú.</dt>
-		<dd>katastrální území</dd>
 <dt>k.s.</dt>
 		<dd>komanditní společnost</dd>
+<dt>k. ú.</dt>
+		<dd>katastrální území</dd>
 <dt>KaPP, KPP</dt>
 		<dd>kádrová a personální práce</dd>
 <dt>kar</dt>
