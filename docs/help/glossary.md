@@ -129,7 +129,7 @@ Význam symbolů ve výsledcích vyhledávání archiválií.
 ## Pojmy
 Seznam základních pojmů používaných v souvislosti s&nbsp;archivním popisem.
 
-| Ikona &vellip; Pojem | Popis |
+| Pojem &vellip; Ikona | Popis |
 |-------|-------|
 | Archiválie | Dokument nebo související předmět, který byl vzhledem k době vzniku, obsahu, původu, vnějším znakům a trvalé hodnotě vybrán ve veřejném zájmu k&nbsp;trvalému uchování. Viz [§ 2 písm. f) zákona č. 499/2004 Sb.](https://www.e-sbirka.cz/sb/2004/499) a [pravidla zpracování archiválií](https://stands.nacr.cz/zp/02-arch-zprac.html#obecne-vymezeni-archivalie). <br>Na tomto webu v&nbsp;sekci Archiválie jsou zobrazovány též prvky popisu reprezentující hierarchické začlenění archiválie do struktury archivního souboru (série, složky). Viz též [pravidla popisu archiválií](https://stands.nacr.cz/zp/03-popis-arch.html). |
 | Archivní autoritní záznam<br>(záznam entity) | Záznam obsahující standardizovaný popis entity za účelem tvorby přístupových bodů a rejstříků. Viz též [pravidla popisu entit](https://stands.nacr.cz/zp/06-autor-zazn.html). Viz [symboly pro třídy entit (ikony)](#symboly-pro-tridy-entit). |
@@ -142,7 +142,7 @@ Seznam základních pojmů používaných v souvislosti s&nbsp;archivním popise
 | Centrální archivní modul (CAM) | Celostátní sdílená databáze určená pro uchování a sdílení popisu archivních autoritních záznamů. [Informační systém CAM](https://cam.nacr.cz/) je součástí Národního archivního portálu, metodicky jej zaštiťuje [Kolegium CAM](https://cam.nacr.cz/info/provoznirad3.html) složené ze zástupců archivů a Ministerstva vnitra. |
 |<span class="term-with-icon">Část jednotlivosti<img src="../img/archival-item-part.svg" class="icon-2_5em" alt="ikona část jednotlivosti"></span> | Část archiválie popsaná jako jednotlivost, která je podřazená jiné jednotlivosti, bez ohledu na to, zda je od ní fyzicky oddělitelná. Viz též [pravidla popisu archiválií](https://stands.nacr.cz/zp/03-popis-arch.html). |
 | Číslo EL NAD | Číslo archivního souboru v systému PEvA. Každý archiv (včetně okresních archivů) má svoji vlastní číselnou řadu. |
-| Dokument | Písemná, obrazová, zvuková nebo jinak zaznamenaná informace, která byla vytvořena původcem nebo byla původci doručena. Viz [§ 2 písm. e) zákona č. 499/2004 Sb.](https://www.e-sbirka.cz/sb/2004/499) |
+| Dokument | Písemná, obrazová, zvuková nebo jinak zaznamenaná informace, která byla vytvořena původcem nebo byla původci doručena. Viz [§&nbsp;2 písm.&nbsp;e) zákona č.&nbsp;499/2004 Sb.](https://www.e-sbirka.cz/sb/2004/499) |
 | Entita | Konkrétní nebo abstraktní objekt popisovaný formou archivního autoritního záznamu za účelem tvorby přístupových bodů a rejstříků. Viz též [pravidla popisu entit](https://stands.nacr.cz/zp/06-autor-zazn.html). Viz [symboly pro třídy entit (ikony)](#symboly-pro-tridy-entit). |
 | Evidenční jednotka<br>(EJ, ev. j.) | Základní jednotka pro počítání a vykazování množství archiválií. Ve starších archivních pomůckách se často uvádí v inventárních seznamech číslo evidenční jednotky (ev.&nbsp;j.&nbsp;č.), to odpovídá dnešnímu ukládacímu číslu. Viz též [pravidla zpracování archiválií](https://stands.nacr.cz/zp/02-arch-zprac.html#evidencni-jednotky). |
 | ELZA | Software pro **EL**ektronické **Z**pracování **A**rchiválií, vyvinutý původně ve spolupráci archivů s Technologickou agenturou ČR za účelem implemetace Základních pravidel z roku 2015. Užíván většinou státních archivů. Vývoj a správu zrojového kódu open source softwaru ELZA zaštiťuje [Ministerstvo vnitra](https://mv.gov.cz/clanek/software-elza.aspx). |
