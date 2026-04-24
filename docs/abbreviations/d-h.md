@@ -1,6 +1,6 @@
 # Zkratky D, E, F, G, H
 
-\--8<-- "groups.md"
+--8<-- "groups.md"
 --8<-- "filter.md"
 
 

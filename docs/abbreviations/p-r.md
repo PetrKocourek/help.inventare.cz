@@ -8,6 +8,9 @@
 
 <dt>p., pag.</dt>
 		<dd>pagina</dd>
+<dt>p.</dt>
+
+&#x09;	<dd>písmeno</dd>
 <dt>PAM</dt>
 		<dd>práce a mzdy</dd>
 <dt>parc. č.</dt>
