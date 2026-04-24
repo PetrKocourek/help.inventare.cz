@@ -1,10 +1,14 @@
 # Zkratky A, B, C, Č
 
---8<-- "groups.md"
+\--8<-- "groups.md"
 --8<-- "filter.md"
 
 
 <dl class="abbr-list">
+
+<dt>a kol.</dt>
+
+&#x09;	<dd>a kolektiv</dd>
 
 <dt>a. s. (a. spol.)</dt>
 		<dd>akciová společnost</dd>

@@ -1,6 +1,6 @@
 # Zkratky T, U, V
 
---8<-- "groups.md"
+\--8<-- "groups.md"
 --8<-- "filter.md"
 
 
@@ -164,6 +164,9 @@
 		<dd>Večerní univerzita marxismu-leninismu</dd>
 <dt>VÚV</dt>
 		<dd>Výzkumný ústav vodohospodářský</dd>
+<dt>vyd.</dt>
+
+&#x09;	<dd>vydání, vydal, vydává</dd>
 <dt>VZ</dt>
 		<dd>výrobní závod</dd>
 </dl>

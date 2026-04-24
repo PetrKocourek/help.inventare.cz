@@ -1,6 +1,6 @@
 # Zkratky D, E, F, G, H
 
---8<-- "groups.md"
+\--8<-- "groups.md"
 --8<-- "filter.md"
 
 
@@ -56,6 +56,9 @@
 		<dd>digitální datasety (datové balíčky)</dd>
 <dt>DVÚ</dt>
 		<dd>dětský výchovný ústav</dd>
+<dt>ed.</dt>
+
+&#x09;	<dd>edice</dd>
 <dt>ej. (e. j.)</dt>
 		<dd>evidenční jednotka</dd>
 <dt>EK</dt>

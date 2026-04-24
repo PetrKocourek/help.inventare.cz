@@ -42,10 +42,10 @@
 		<dd>jednotný národní výbor</dd>
 <dt>JP</dt>
 		<dd>jednostupňový projekt</dd>
+<dt>JP KVČ</dt>
+		<dd>jednotný plán/program kulturně výchovné činnosti</dd>
 <dt>JPD</dt>
 		<dd>jednotná projektová dokumentace</dd>
-<dt>JPKVČ</dt>
-		<dd>jednotný plán kulturní a výchovné činnosti</dd>
 <dt>JSBVO</dt>
 		<dd>jednotný systém branné výchovy obyvatelstva</dd>
 <dt>JSČZ</dt>
@@ -104,6 +104,8 @@
 		<dd>krajská komise lidové kontroly a statistiky</dd>
 <dt>KKRK</dt>
 		<dd>krajská kontrolní a revizní komise</dd>
+<dt>KKS</dt>
+		<dd>Krajské kulturní středisko</dd>
 <dt>KLDR</dt>
 		<dd>Korejská lidově demokratická republika</dd>
 <dt>KLK</dt>
@@ -122,6 +124,8 @@
 		<dd>Krajská organizace pro rozvoj a zavádění nové techniky v místním hospodářství</dd>
 <dt>KOVP</dt>
 		<dd>komise ochrany veřejného pořádku</dd>
+<dt>KPFKE</dt>
+		<dd>Krajský podnik pro film, koncerty a estrády</dd>
 <dt>KPKDZ</dt>
 		<dd>krajská posudková komise důchodového zabezpečení</dd>
 <dt>KPKSZ</dt>
@@ -182,6 +186,8 @@
 		<dd>krajský výbor Svazu československo-sovětského přátelství</dd>
 <dt>KV SSM</dt>
 		<dd>krajský výbor Svazu socialistické mládeže</dd>
+<dt>KVČ</dt>
+		<dd>kulturně výchovná činnost</dd>
 <dt>KVNB</dt>
 		<dd>krajské velitelství národní bezpečnosti</dd>
 <dt>KVOS</dt>

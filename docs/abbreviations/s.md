@@ -20,6 +20,8 @@
 		<dd>Socialistická akademie</dd>
 <dt>SAP</dt>
 		<dd>Sborník archivních prací</dd>
+<dt>Sb. z. a n.</dt>
+		<dd>Sbírka zákonů a nařízení</dd>
 <dt>SBČS</dt>
 		<dd>Státní banka československá</dd>
 <dt>SBD</dt>
@@ -126,6 +128,8 @@
 		<dd>Státní bezpečnost</dd>
 <dt>STK</dt>
 		<dd>stanice technické kontroly</dd>
+<dt>STMP</dt>
+		<dd>Soutěž tvořivosti mládeže a pracujících</dd>
 <dt>sto</dt>
 		<dd>štočky</dd>
 <dt>stol.</dt>

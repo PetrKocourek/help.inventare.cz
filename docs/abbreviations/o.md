@@ -40,6 +40,8 @@
 		<dd>okresní komise lidové kontroly a statistiky</dd>
 <dt>OKRK</dt>
 		<dd>okresní kontrolní a revizní komise</dd>
+<dt>OKS</dt>
+		<dd>okresní kulturní středisko</dd>
 <dt>OkÚ</dt>
 		<dd>okresní úřad</dd>
 <dt>OL</dt>
@@ -92,6 +94,8 @@
 		<dd>okresní soud</dd>
 <dt>OS SNB</dt>
 		<dd>ozbrojené složky Sboru národní bezpečnosti</dd>
+<dt>OSA</dt>
+		<dd>Ochranný svaz autorský</dd>
 <dt>OSBD</dt>
 		<dd>okresní stavební bytové družstvo</dd>
 <dt>OSH</dt>

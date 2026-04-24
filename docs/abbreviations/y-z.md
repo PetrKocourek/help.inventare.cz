@@ -98,6 +98,8 @@
 		<dd>zdravotně technická instalace</dd>
 <dt>ZTV</dt>
 		<dd>základní tělesná výchova</dd>
+<dt>ZUČ</dt>
+		<dd>zájmově umělecká činnost</dd>
 <dt>ZUD</dt>
 		<dd>Západočeské uranové doly</dd>
 <dt>ZÚNZ</dt>

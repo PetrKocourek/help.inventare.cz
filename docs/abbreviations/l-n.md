@@ -136,6 +136,12 @@
 		<dd>Ministerstvo školství a osvěty</dd>
 <dt>MŠR</dt>
 		<dd>místní školní rada</dd>
+<dt>MŠV</dt>
+		<dd>mimosškolní vzdělávání</dd>
+<dt>MŠV/P</dt>
+		<dd>mimoškolní vzdělávání profesionálů
+<dt>MŠV/V</dt>
+		<dd>mimoškolní vzdělávání dobrovolných kulturních pracovníků
 <dt>MŠVU</dt>
 		<dd>Ministerstvo školství, věd a umění</dd>
 <dt>MTV</dt>
